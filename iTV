@@ -1,0 +1,93 @@
+#EXTM3U
+
+ABERTOS
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Globo.png" group-title="Canais | Abertos",Globo
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/globosp_cfe21c68_6c11bc8fb22e2e0444e17af411d125f8d77dc7fd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="Canais | Abertos",SBT
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Canais | Abertos",RecordTV
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-0.png" group-title="Canais | Abertos",Band
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/band_49e3d046_368fe5796b8a903e7c7e19ed19a4d1ea2545ee4f/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV" tvg-name="RedeTV" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="Canais | Abertos",RedeTV
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/redetv_45cbe19f_36d2c0609d340f73ec83e795ce5836198be6f496/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo.png" group-title="Canais | Abertos",TV Cultura
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Tv_brasil_novologo.png" group-title="Canais | Abertos",TV Brasil
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+
+NOTÍCIAS
+
+
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="https://static.ndonline.com.br/2020/07/news-logo-800x345.png" group-title="Canais | Notícias",Record News
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/recordnews_620807a1_f51a529c4fa967a471dcd9699c28cf4a4d0e56c5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Band News" tvg-name="Band News" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="Canais | Notícias",Band News
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/bandnews_aee544ce_f2205d5cd357a690c788c444d7f526e3bf8517b7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png" group-title="Canais | Notícias",Globo News
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/globonews_dc685e2c_039706935b595fd58dff0af5a545a92f85f5324f/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png" group-title="Canais | Notícias",CNN Brasil
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/cnnbrasil_db00e4fd_048482d5baf993c0e92869aceaca9819eb5755a7/playlist.m3u8
+
+
+DOCUMENTÁRIOS
+
+
+#EXTINF:-1 tvg-id="NatGeoWild" tvg-name="NatGeoWild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Canais | Documentários",NatGeoWild
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/natgeowild_e4dd8a3f_fd3b136c9447184f3155d8a9c9269b37828564c0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Canais | Documentários",NatGeo
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/nationalgeographic_2e01e174_92a0bbb9eeb488d421020856a195ac3fee0e1a95/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="Canais | Documentários",Discovery
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/discoverychannel_af3e1334_4d5a742aff7381528ab89dbd6a3c5f4b0ce63bce/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png" group-title="Canais | Documentários",Animal Planet
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/animalplanet_e114c448_f3a82c459cc7c15294880a61e2283eb85e7452af/playlist.m3u8
+
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png" group-title="Canais | Documentários",History
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/history_b7eb6c68_2cb731aaa4d51a7e01455342a6351307a1fb6c55/playlist.m3u8
+
+#EXTINF:-1 tvg-id="History 2" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Canais | Documentários",History 2
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/h2_2bfba6b3_8628a85dd982aa89e2f9b46913403753048d9e4c/playlist.m3u8
+
+
+
+
+
+
+
+INFANTIS
+
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Infantil",Gloob
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/gloob_04f1241e_1052d8b94c2b3cadd90b4aace096ab1a2f089eec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery KIds" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6uoNAAj.png" group-title="Canais | Infantil",Discovery Kids
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="Canais | Infantil",Nickelodeon
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png" group-title="Canais | Infantil",Disney XD
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/disneyxd_d094700e_2f2afeaeac272c44d97bb6358eff612978edcb50/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Disney junior" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Disney_Junior.png" group-title="Canais | Infantil",Disney Junior
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/disneyjunior_572e2073_12d18d6124541b006f98c2b6feb08696a5c1b30c/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://commons.wikimedia.org/wiki/File:Disney_channel_2020.png" group-title="Canais | Infantil",Disney Channel
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/disneychannel_a9334987_26726e81a3baaeedc09a457e7449dd3414fe687d/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="Canais | Infantil",Cartoon Network
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/cartoonnetwork_511a418e_e7d9c467c2b1fa965a005e0bc738324b63dfdf84/playlist.m3u8
+
+
