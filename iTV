@@ -70,7 +70,7 @@ https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/h2_2bfba6b3_8628a85dd982a
 INFANTIS
 
 #EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Infantil",Gloob
-https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/gloob_04f1241e_1052d8b94c2b3cadd90b4aace096ab1a2f089eec/playlist.m3u8
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/gloob.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery KIds" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6uoNAAj.png" group-title="Canais | Infantil",Discovery Kids
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/master.m3u8
