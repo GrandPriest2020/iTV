@@ -50,7 +50,7 @@ https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/natgeowild_e4dd8a3f_fd3b136c944
 https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/nationalgeographic_2e01e174_92a0bbb9eeb488d421020856a195ac3fee0e1a95/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="Canais | Documentários",Discovery
-https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/discoverychannel_af3e1334_4d5a742aff7381528ab89dbd6a3c5f4b0ce63bce/playlist.m3u8
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/discoverysd/video.m3u8
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png" group-title="Canais | Documentários",Animal Planet
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/animalplanet_e114c448_f3a82c459cc7c15294880a61e2283eb85e7452af/playlist.m3u8
