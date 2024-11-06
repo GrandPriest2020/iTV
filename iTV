@@ -62,8 +62,37 @@ ESPORTES
 #EXTINF:-1 tvg-id="SporTv" tvg-name="Sportv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/SporTV_2021.svg/revision/latest?cb=20211208021328" group-title="Canais | Esportes",Sportv
 https://embedcanaistv.site/sportv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="SporTv2" tvg-name="Sportv2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/SporTV2_2021.svg/revision/latest?cb=20211208021523" group-title="Canais | Esportes",Sportv2
+https://embedcanaistv.site/sportv2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="SporTv3" tvg-name="Sportv3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/SporTV3_2021.svg/revision/latest?cb=20211208021644" group-title="Canais | Esportes",Sportv3
+https://embedcanaistv.site/sportv3/tracks-v1a1/mono.m3u8
 
+CANAIS PREMIERE
+
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Premiere_2017.svg/revision/latest?cb=20220425152048" group-title="Canais | Esportes",Premiere Clubes
+https://embedcanaistv.site/premiereclubes/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Premiere2" tvg-name="Premiere2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Premiere_2017.svg/revision/latest?cb=20220425152048" group-title="Canais | Esportes",Premiere2
+https://embedcanaistv.site/premiere2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Premiere3" tvg-name="Premiere3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Premiere_2017.svg/revision/latest?cb=20220425152048" group-title="Canais | Esportes",Premiere3
+https://embedcanaistv.site/premiere3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Premiere4" tvg-name="Premiere4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Premiere_2017.svg/revision/latest?cb=20220425152048" group-title="Canais | Esportes",Premiere4
+https://embedcanaistv.site/premiere4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Premiere5" tvg-name="Premiere5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Premiere_2017.svg/revision/latest?cb=20220425152048" group-title="Canais | Esportes",Premiere5
+https://embedcanaistv.site/premiere5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Premiere6" tvg-name="Premiere6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Premiere_2017.svg/revision/latest?cb=20220425152048" group-title="Canais | Esportes",Premiere6
+https://embedcanaistv.site/premiere6/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Premiere7" tvg-name="Premiere7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Premiere_2017.svg/revision/latest?cb=20220425152048" group-title="Canais | Esportes",Premiere7
+https://embedcanaistv.site/premiere7/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Premiere8" tvg-name="Premiere8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Premiere_2017.svg/revision/latest?cb=20220425152048" group-title="Canais | Esportes",Premiere8
+https://embedcanaistv.site/premiere8/tracks-v1a1/mono.m3u8
 
 INFANTIS
 
