@@ -59,7 +59,7 @@ https://embedcanaistv.site/history2/tracks-v1a1/mono.m3u8
 
 ESPORTES
 
-#EXTINF:-1 tvg-id="History" tvg-name="Sportv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/SporTV_2021.svg/revision/latest?cb=20211208021328" group-title="Canais | Esportes",Sportv
+#EXTINF:-1 tvg-id="SporTv" tvg-name="Sportv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/SporTV_2021.svg/revision/latest?cb=20211208021328" group-title="Canais | Esportes",Sportv
 https://embedcanaistv.site/sportv/tracks-v1a1/mono.m3u8
 
 
