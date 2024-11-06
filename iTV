@@ -40,23 +40,20 @@ https://embedcanaistv.site/cnnbrasil/tracks-v1a1/mono.m3u8
 DOCUMENTÁRIOS
 
 
-#EXTINF:-1 tvg-id="NatGeoWild" tvg-name="NatGeoWild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Canais | Documentários",NatGeoWild
-https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/natgeowild_e4dd8a3f_fd3b136c9447184f3155d8a9c9269b37828564c0/playlist.m3u8
-
 #EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Canais | Documentários",NatGeo
-https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/nationalgeographic_2e01e174_92a0bbb9eeb488d421020856a195ac3fee0e1a95/playlist.m3u8
+https://embedcanaistv.site/nationalgeografic/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="Canais | Documentários",Discovery
-http://ingrid.ltd:25461/Juan123456/Juan123456/41339?checkedby:iptvcat.com
+https://embedcanaistv.site/discoverychannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png" group-title="Canais | Documentários",Animal Planet
 https://embedcanaistv.site/animalplanet/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png" group-title="Canais | Documentários",History
-https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/history_b7eb6c68_2cb731aaa4d51a7e01455342a6351307a1fb6c55/playlist.m3u8
+https://embedcanaistv.site/history/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="History 2" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Canais | Documentários",History 2
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/h2_2bfba6b3_8628a85dd982aa89e2f9b46913403753048d9e4c/playlist.m3u8
+https://embedcanaistv.site/history2/tracks-v1a1/mono.m3u8
 
 
 
