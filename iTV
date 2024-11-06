@@ -53,7 +53,7 @@ https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/nationalgeographic_2e01e174_92
 http://ingrid.ltd:25461/Juan123456/Juan123456/41339?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png" group-title="Canais | Documentários",Animal Planet
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/animalplanet_e114c448_f3a82c459cc7c15294880a61e2283eb85e7452af/playlist.m3u8
+https://embedcanaistv.site/animalplanet/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png" group-title="Canais | Documentários",History
 https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/history_b7eb6c68_2cb731aaa4d51a7e01455342a6351307a1fb6c55/playlist.m3u8
