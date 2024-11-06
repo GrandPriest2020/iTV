@@ -25,16 +25,16 @@ NOTÍCIAS
 
 
 #EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="https://static.ndonline.com.br/2020/07/news-logo-800x345.png" group-title="Canais | Notícias",Record News
-https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/recordnews_620807a1_f51a529c4fa967a471dcd9699c28cf4a4d0e56c5/playlist.m3u8
+https://embedcanaistv.site/recordnews/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Band News" tvg-name="Band News" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="Canais | Notícias",Band News
-https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/bandnews_aee544ce_f2205d5cd357a690c788c444d7f526e3bf8517b7/playlist.m3u8
+https://embedcanaistv.site/bandnews/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png" group-title="Canais | Notícias",Globo News
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/globonews_dc685e2c_039706935b595fd58dff0af5a545a92f85f5324f/playlist.m3u8
+https://embedcanaistv.site/globonews/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png" group-title="Canais | Notícias",CNN Brasil
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/cnnbrasil_db00e4fd_048482d5baf993c0e92869aceaca9819eb5755a7/playlist.m3u8
+https://embedcanaistv.site/cnnbrasil/tracks-v1a1/mono.m3u8
 
 
 DOCUMENTÁRIOS
