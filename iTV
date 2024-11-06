@@ -3,25 +3,22 @@
 ABERTOS
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Globo.png" group-title="Canais | Abertos",Globo
-https://geralorigin.eu-central-1.edge.mycdn.live/live/globosp/video.m3u8
+https://embedcanaistv.site/globorj/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="Canais | Abertos",SBT
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+https://embedcanaistv.site/sbtsp/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Canais | Abertos",RecordTV
-https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8
+https://embedcanaistv.site/recordsp/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-0.png" group-title="Canais | Abertos",Band
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/band_49e3d046_368fe5796b8a903e7c7e19ed19a4d1ea2545ee4f/playlist.m3u8
+https://embedcanaistv.site/bandsp/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RedeTV" tvg-name="RedeTV" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="Canais | Abertos",RedeTV
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/redetv_45cbe19f_36d2c0609d340f73ec83e795ce5836198be6f496/playlist.m3u8
+https://embedcanaistv.site/redetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo.png" group-title="Canais | Abertos",TV Cultura
-http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Tv_brasil_novologo.png" group-title="Canais | Abertos",TV Brasil
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+https://embedcanaistv.site/tvcultura/tracks-v1a1/mono.m3u8
 
 
 NOTÍCIAS
