@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://gist.github.com/lagosiptv/6cc09a4e8c4396150c762e561b320e99#file-epg-xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/GrandPriest2020/iTV/refs/heads/master/epg.xml"
 ABERTOS
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Globo.png" group-title="Canais | Abertos",Globo
