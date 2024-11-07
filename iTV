@@ -112,6 +112,39 @@ https://embedcanaistv.site/tntsports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tntsports3.br" tvg-name="TNT Sports 3" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/09/tntsports.webp" group-title="Canais | Esportes",TNT Sports 3
 https://embedcanaistv.site/tntsports3/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="max.br" tvg-name="Max" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/09/max.webp" group-title="Canais | Esportes",Max
+https://embedcanaistv.site/max/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="max2.br" tvg-name="Max 2" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/09/max.webp" group-title="Canais | Esportes",Max 2
+https://embedcanaistv.site/max2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="max3.br" tvg-name="Max 3" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/09/max.webp" group-title="Canais | Esportes",Max 3
+https://embedcanaistv.site/max3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="max4.br" tvg-name="Max 4" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/09/max.webp" group-title="Canais | Esportes",Max 4
+https://embedcanaistv.site/max4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Star +" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/09/starplus-1.webp" group-title="Canais | Esportes", Star +
+https://embedcanaistv.site/starplus/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Paramount +" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/paramount-300x150-1.webp" group-title="Canais | Esportes", Paramount +
+https://embedcanaistv.site/paramountplus/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/09/amazonprime.webp" group-title="Canais | Esportes", Amazon Prime Video
+https://embedcanaistv.site/amazonprimevideo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cazé TV" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/caze.webp" group-title="Canais | Esportes", Cazé TV
+https://embedcanaistv.site/cazetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/09/nossofutebol.webp" group-title="Canais | Esportes", Nosso Futebol
+https://embedcanaistv.site/nossofutebol/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/bandsports.webp" group-title="Canais | Esportes", Band Sports
+https://embedcanaistv.site/bandsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Combate" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/combate-1.webp" group-title="Canais | Esportes", Combate
+https://embedcanaistv.site/combate/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/09/ufcflightpass.webp" group-title="Canais | Esportes", UFC Fight Pass
+https://embedcanaistv.site/ufcfightpass/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | Esportes",
 https://embedcanaistv.site/premiere8/tracks-v1a1/mono.m3u8
 
