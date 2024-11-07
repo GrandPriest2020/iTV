@@ -43,9 +43,6 @@ DOCUMENTÁRIOS
 #EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Canais | Documentários",NatGeo
 https://embedcanaistv.site/nationalgeografic/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="Canais | Documentários",Discovery
-https://embedcanaistv.site/discoverychannel/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png" group-title="Canais | Documentários",Animal Planet
 https://embedcanaistv.site/animalplanet/tracks-v1a1/mono.m3u8
 
@@ -55,7 +52,31 @@ https://embedcanaistv.site/history/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="History 2" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Canais | Documentários",History 2
 https://embedcanaistv.site/history2/tracks-v1a1/mono.m3u8
 
+DISCOVERY
 
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="Canais | Discovery",Discovery
+https://embedcanaistv.site/discoverychannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home & Health" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryhh.webp" group-title="Canais | Discovery",Discovery Home & Health
+https://embedcanaistv.site/discoveryhh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryscience.webp" group-title="Canais | Discovery",Discovery Science
+https://embedcanaistv.site/discoveryscience/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoverytheater.webp" group-title="Canais | Discovery",Discovery Theater
+https://embedcanaistv.site/discoverytheater/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveyworld.webp" group-title="Canais | Discovery",Discovery World
+https://embedcanaistv.site/discoveryworld/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Discovery ID" tvg-name="Discovery ID" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryid.webp" group-title="Canais | Discovery",Discovery ID
+https://embedcanaistv.site/discoveryid/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryturbo.webp" group-title="Canais | Discovery",Discovery Turbo
+https://embedcanaistv.site/discoveryturbo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery KIds" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6uoNAAj.png" group-title="Canais | Discovery",Discovery Kids
+https://embedcanaistv.site/discoverykids/tracks-v1a1/mono.m3u8
 
 ESPORTES
 
@@ -99,8 +120,6 @@ INFANTIS
 #EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Infantil",Gloob
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/gloob.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery KIds" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6uoNAAj.png" group-title="Canais | Infantil",Discovery Kids
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="Canais | Infantil",Nickelodeon
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/master.m3u8
