@@ -166,7 +166,18 @@ https://embedcanaistv.site/hbosignature/tracks-v1a1/mono.m3u8
 https://embedcanaistv.site/hboxtreme/tracks-v1a1/mono.m3u8
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcaction.webp" group-title="Canais | Filmes e Séries",Telecine Action
+https://embedcanaistv.site/tcaction/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tccult.webp" group-title="Canais | Filmes e Séries",Telecine Cult
+https://embedcanaistv.site/tccult/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcfun.webp" group-title="Canais | Filmes e Séries",Telecine Fun
+https://embedcanaistv.site/tcfun/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcpipoca.webp" group-title="Canais | Filmes e Séries",Telecine Pipoca
+https://embedcanaistv.site/tcpipoca/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcpremium.webp" group-title="Canais | Filmes e Séries",Telecine Premium
+https://embedcanaistv.site/tcpremium/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tctouch.webp" group-title="Canais | Filmes e Séries",Telecine Touch
+https://embedcanaistv.site/tctouch/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | Filmes e Séries",
