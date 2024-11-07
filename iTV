@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/x79znkrz11u4rw1qygk2"
+ABERTOS
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Globo.png" group-title="Canais | Abertos",Globo
 https://embedcanaistv.site/globorj/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="Canais | Abertos",SBT
