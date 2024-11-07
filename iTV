@@ -105,6 +105,12 @@ https://embedcanaistv.site/espn5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="espn" tvg-name="ESPN 6" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/espn.webp" group-title="Canais | Esportes",ESPN 6
 https://embedcanaistv.site/espn6/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="tntsports.br" tvg-name="TNT Sports" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/09/tntsports.webp" group-title="Canais | Esportes",TNT Sports
+https://embedcanaistv.site/tntsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="tntsports2.br" tvg-name="TNT Sports 2" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/09/tntsports.webp" group-title="Canais | Esportes",TNT Sports 2
+https://embedcanaistv.site/tntsports2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="tntsports3.br" tvg-name="TNT Sports 3" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/09/tntsports.webp" group-title="Canais | Esportes",TNT Sports 3
+https://embedcanaistv.site/tntsports3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | Esportes",
 https://embedcanaistv.site/premiere8/tracks-v1a1/mono.m3u8
