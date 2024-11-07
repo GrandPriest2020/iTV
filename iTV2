@@ -1,0 +1,136 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/GrandPriest2020/iTV/refs/heads/master/epg.xml"
+ABERTOS
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Globo.png" group-title="Canais | Abertos",Globo
+https://embedcanaistv.site/globorj/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="Canais | Abertos",SBT
+https://embedcanaistv.site/sbtsp/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Canais | Abertos",RecordTV
+https://embedcanaistv.site/recordsp/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-0.png" group-title="Canais | Abertos",Band
+https://embedcanaistv.site/bandsp/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV" tvg-name="RedeTV" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="Canais | Abertos",RedeTV
+https://embedcanaistv.site/redetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo.png" group-title="Canais | Abertos",TV Cultura
+https://embedcanaistv.site/tvcultura/tracks-v1a1/mono.m3u8
+
+
+NOTÍCIAS
+
+
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="https://static.ndonline.com.br/2020/07/news-logo-800x345.png" group-title="Canais | Notícias",Record News
+https://embedcanaistv.site/recordnews/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Band News" tvg-name="Band News" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="Canais | Notícias",Band News
+https://embedcanaistv.site/bandnews/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png" group-title="Canais | Notícias",Globo News
+https://embedcanaistv.site/globonews/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png" group-title="Canais | Notícias",CNN Brasil
+https://embedcanaistv.site/cnnbrasil/tracks-v1a1/mono.m3u8
+
+
+DOCUMENTÁRIOS
+
+
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Canais | Documentários",NatGeo
+https://embedcanaistv.site/nationalgeografic/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Animal.Planet.br" tvg-name="Animal Planet" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png" group-title="Canais | Documentários",Animal Planet
+https://embedcanaistv.site/animalplanet/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png" group-title="Canais | Documentários",History
+https://embedcanaistv.site/history/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="History 2" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Canais | Documentários",History 2
+https://embedcanaistv.site/history2/tracks-v1a1/mono.m3u8
+
+DISCOVERY
+
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="Canais | Discovery",Discovery
+https://embedcanaistv.site/discoverychannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home & Health" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryhh.webp" group-title="Canais | Discovery",Discovery Home & Health
+https://embedcanaistv.site/discoveryhh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryscience.webp" group-title="Canais | Discovery",Discovery Science
+https://embedcanaistv.site/discoveryscience/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoverytheater.webp" group-title="Canais | Discovery",Discovery Theater
+https://embedcanaistv.site/discoverytheater/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveyworld.webp" group-title="Canais | Discovery",Discovery World
+https://embedcanaistv.site/discoveryworld/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Discovery ID" tvg-name="Discovery ID" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryid.webp" group-title="Canais | Discovery",Discovery ID
+https://embedcanaistv.site/discoveryid/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryturbo.webp" group-title="Canais | Discovery",Discovery Turbo
+https://embedcanaistv.site/discoveryturbo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery KIds" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6uoNAAj.png" group-title="Canais | Discovery",Discovery Kids
+https://embedcanaistv.site/discoverykids/tracks-v1a1/mono.m3u8
+
+ESPORTES
+
+#EXTINF:-1 tvg-id="SporTv" tvg-name="Sportv" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-4-1.png" group-title="Canais | Esportes",Sportv
+https://embedcanaistv.site/sportv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SporTv2" tvg-name="Sportv2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-4-1.png" group-title="Canais | Esportes",Sportv2
+https://embedcanaistv.site/sportv2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SporTv3" tvg-name="Sportv3" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-4-1.png" group-title="Canais | Esportes",Sportv3
+https://embedcanaistv.site/sportv3/tracks-v1a1/mono.m3u8
+
+CANAIS PREMIERE
+
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="" group-title="Canais | Esportes",Premiere Clubes
+https://embedcanaistv.site/premiereclubes/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Premiere2" tvg-name="Premiere2" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere2
+https://embedcanaistv.site/premiere2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Premiere3" tvg-name="Premiere3" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere3
+https://embedcanaistv.site/premiere3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Premiere4" tvg-name="Premiere4" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere4
+https://embedcanaistv.site/premiere4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Premiere5" tvg-name="Premiere5" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere5
+https://embedcanaistv.site/premiere5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Premiere6" tvg-name="Premiere6" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere6
+https://embedcanaistv.site/premiere6/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Premiere7" tvg-name="Premiere7" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere7
+https://embedcanaistv.site/premiere7/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Premiere8" tvg-name="Premiere8" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere8
+https://embedcanaistv.site/premiere8/tracks-v1a1/mono.m3u8
+
+INFANTIS
+
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Infantil",Gloob
+https://embedcanaistv.site/gloob/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="Canais | Infantil",Nickelodeon
+https://embedcanaistv.site/nickelodeon/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png" group-title="Canais | Infantil",Disney XD
+https://embedcanaistv.site/disneyxdpremiere8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Disney junior" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Disney_Junior.png" group-title="Canais | Infantil",Disney Junior
+https://embedcanaistv.site/disneyjr/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://commons.wikimedia.org/wiki/File:Disney_channel_2020.png" group-title="Canais | Infantil",Disney Channel
+https://embedcanaistv.site/disneychannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="Canais | Infantil",Cartoon Network
+https://embedcanaistv.site/cartoonnetwork/tracks-v1a1/mono.m3u8
+
