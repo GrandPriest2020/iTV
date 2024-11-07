@@ -118,22 +118,21 @@ https://embedcanaistv.site/premiere8/tracks-v1a1/mono.m3u8
 INFANTIS
 
 #EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Infantil",Gloob
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/gloob.smil/master.m3u8
-
+https://embedcanaistv.site/gloob/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="Canais | Infantil",Nickelodeon
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/master.m3u8
+https://embedcanaistv.site/nickelodeon/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png" group-title="Canais | Infantil",Disney XD
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/disneyxd_d094700e_2f2afeaeac272c44d97bb6358eff612978edcb50/playlist.m3u8
+https://embedcanaistv.site/disneyxdpremiere8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Disney junior" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Disney_Junior.png" group-title="Canais | Infantil",Disney Junior
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/disneyjunior_572e2073_12d18d6124541b006f98c2b6feb08696a5c1b30c/playlist.m3u8
+https://embedcanaistv.site/disneyjr/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://commons.wikimedia.org/wiki/File:Disney_channel_2020.png" group-title="Canais | Infantil",Disney Channel
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/disneychannel_a9334987_26726e81a3baaeedc09a457e7449dd3414fe687d/playlist.m3u8
+https://embedcanaistv.site/disneychannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="Canais | Infantil",Cartoon Network
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/cartoonnetwork_511a418e_e7d9c467c2b1fa965a005e0bc738324b63dfdf84/playlist.m3u8
+https://embedcanaistv.site/cartoonnetwork/tracks-v1a1/mono.m3u8
 
 
