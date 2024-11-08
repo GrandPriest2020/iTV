@@ -35,7 +35,7 @@ https://embedcanaistv.site/jovempannews/tracks-v1a1/mono.m3u8
 DOCUMENTÁRIOS
 
 
-#EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Canais | Documentários",NatGeo
+#EXTINF:-1 tvg-id="NationalGeographic.br" tvg-name="NatGeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Canais | Documentários",NatGeo
 https://embedcanaistv.site/nationalgeografic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png" group-title="Canais | Documentários",Animal Planet
 https://embedcanaistv.site/animalplanet/tracks-v1a1/mono.m3u8
@@ -48,7 +48,7 @@ https://embedcanaistv.site/history2/tracks-v1a1/mono.m3u8
 DISCOVERY CHANNELS
 
 
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="Canais | Discovery",Discovery
+#EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="Canais | Discovery",Discovery Channel
 https://embedcanaistv.site/discoverychannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.br" tvg-name="Discovery Home & Health" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryhh.webp" group-title="Canais | Discovery",Discovery Home & Health
 https://embedcanaistv.site/discoveryhh/tracks-v1a1/mono.m3u8
@@ -58,7 +58,7 @@ https://embedcanaistv.site/discoveryscience/tracks-v1a1/mono.m3u8
 https://embedcanaistv.site/discoverytheater/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-name="Discovery World" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveyworld.webp" group-title="Canais | Discovery",Discovery World
 https://embedcanaistv.site/discoveryworld/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Discovery ID" tvg-name="Discovery ID" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryid.webp" group-title="Canais | Discovery",Discovery ID
+#EXTINF:-1 tvg-id="InvestigacaoDiscovery.br" tvg-name="Discovery ID" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryid.webp" group-title="Canais | Discovery",Discovery ID
 https://embedcanaistv.site/discoveryid/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-name="Discovery Turbo" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryturbo.webp" group-title="Canais | Discovery",Discovery Turbo
 https://embedcanaistv.site/discoveryturbo/tracks-v1a1/mono.m3u8
@@ -92,17 +92,17 @@ https://embedcanaistv.site/premiere7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Premiere8.br" tvg-name="Premiere8" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere8
 https://embedcanaistv.site/premiere8/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/espn.webp" group-title="Canais | Esportes",ESPN
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/espn.webp" group-title="Canais | Esportes",ESPN
 https://embedcanaistv.site/espn/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="espn" tvg-name="ESPN 2" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/espn.webp" group-title="Canais | Esportes",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 2" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/espn.webp" group-title="Canais | Esportes",ESPN 2
 https://embedcanaistv.site/espn2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="espn" tvg-name="ESPN 3" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/espn.webp" group-title="Canais | Esportes",ESPN 3
+#EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN 3" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/espn.webp" group-title="Canais | Esportes",ESPN 3
 https://embedcanaistv.site/espn3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="espn" tvg-name="ESPN 4" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/espn.webp" group-title="Canais | Esportes",ESPN 4
+#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN 4" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/espn.webp" group-title="Canais | Esportes",ESPN 4
 https://embedcanaistv.site/espn4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="espn" tvg-name="ESPN 5" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/espn.webp" group-title="Canais | Esportes",ESPN 5
+#EXTINF:-1 tvg-id="ESPN5.br" tvg-name="ESPN 5" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/espn.webp" group-title="Canais | Esportes",ESPN 5
 https://embedcanaistv.site/espn5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="espn" tvg-name="ESPN 6" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/espn.webp" group-title="Canais | Esportes",ESPN 6
+#EXTINF:-1 tvg-id="ESPN6.br" tvg-name="ESPN 6" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/espn.webp" group-title="Canais | Esportes",ESPN 6
 https://embedcanaistv.site/espn6/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="tntsports.br" tvg-name="TNT Sports" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/09/tntsports.webp" group-title="Canais | Esportes",TNT Sports
@@ -133,13 +133,13 @@ https://embedcanaistv.site/amazonprimevideo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cazé TV" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/caze.webp" group-title="Canais | Esportes", Cazé TV
 https://embedcanaistv.site/cazetv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/09/nossofutebol.webp" group-title="Canais | Esportes", Nosso Futebol
+#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="Nosso Futebol" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/09/nossofutebol.webp" group-title="Canais | Esportes", Nosso Futebol
 https://embedcanaistv.site/nossofutebol/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Band Sports" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/bandsports.webp" group-title="Canais | Esportes", Band Sports
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/bandsports.webp" group-title="Canais | Esportes", Band Sports
 https://embedcanaistv.site/bandsports/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Combate" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/combate-1.webp" group-title="Canais | Esportes", Combate
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/combate-1.webp" group-title="Canais | Esportes", Combate
 https://embedcanaistv.site/combate/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/09/ufcflightpass.webp" group-title="Canais | Esportes", UFC Fight Pass
 https://embedcanaistv.site/ufcfightpass/tracks-v1a1/mono.m3u8
@@ -148,39 +148,38 @@ https://embedcanaistv.site/ufcfightpass/tracks-v1a1/mono.m3u8
 FILMES E SÉRIES
 
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://www.pngall.com/wp-content/uploads/15/HBO-Logo-PNG-Image.png" group-title="Canais | Filmes e Séries",HBO
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO" tvg-logo="https://www.pngall.com/wp-content/uploads/15/HBO-Logo-PNG-Image.png" group-title="Canais | Filmes e Séries",HBO
 https://embedcanaistv.site/hbo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hbo2.webp" group-title="Canais | Filmes e Séries",HBO 2
+#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hbo2.webp" group-title="Canais | Filmes e Séries",HBO 2
 https://embedcanaistv.site/hbo2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hbo-family.webp" group-title="Canais | Filmes e Séries",HBO Family
+#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="HBO Family" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hbo-family.webp" group-title="Canais | Filmes e Séries",HBO Family
 https://embedcanaistv.site/hbofamily/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hbomundi-300x150-1.webp" group-title="Canais | Filmes e Séries",HBO Mundi
+#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hbomundi-300x150-1.webp" group-title="Canais | Filmes e Séries",HBO Mundi
 https://embedcanaistv.site/hbomundi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hboplus.webp" group-title="Canais | Filmes e Séries",HBO Plus
+#EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="HBO Plus" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hboplus.webp" group-title="Canais | Filmes e Séries",HBO Plus
 https://embedcanaistv.site/hboplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Pop" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hbopop.webp" group-title="Canais | Filmes e Séries",HBO Pop
+#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO Pop" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hbopop.webp" group-title="Canais | Filmes e Séries",HBO Pop
 https://embedcanaistv.site/hbopop/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/gbosugnature-300x150-1.webp" group-title="Canais | Filmes e Séries",HBO Signature
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/gbosugnature-300x150-1.webp" group-title="Canais | Filmes e Séries",HBO Signature
 https://embedcanaistv.site/hbosignature/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Extreme" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hboxtreme.webp" group-title="Canais | Filmes e Séries",HBO Xtreme
+#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hboxtreme.webp" group-title="Canais | Filmes e Séries",HBO Xtreme
 https://embedcanaistv.site/hboxtreme/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcaction.webp" group-title="Canais | Filmes e Séries",Telecine Action
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcaction.webp" group-title="Canais | Filmes e Séries",Telecine Action
 https://embedcanaistv.site/tcaction/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tccult.webp" group-title="Canais | Filmes e Séries",Telecine Cult
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tccult.webp" group-title="Canais | Filmes e Séries",Telecine Cult
 https://embedcanaistv.site/tccult/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcfun.webp" group-title="Canais | Filmes e Séries",Telecine Fun
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcfun.webp" group-title="Canais | Filmes e Séries",Telecine Fun
 https://embedcanaistv.site/tcfun/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcpipoca.webp" group-title="Canais | Filmes e Séries",Telecine Pipoca
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcpipoca.webp" group-title="Canais | Filmes e Séries",Telecine Pipoca
 https://embedcanaistv.site/tcpipoca/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcpremium.webp" group-title="Canais | Filmes e Séries",Telecine Premium
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcpremium.webp" group-title="Canais | Filmes e Séries",Telecine Premium
 https://embedcanaistv.site/tcpremium/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tctouch.webp" group-title="Canais | Filmes e Séries",Telecine Touch
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tctouch.webp" group-title="Canais | Filmes e Séries",Telecine Touch
 https://embedcanaistv.site/tctouch/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais | Filmes e Séries",
+#EXTINF:-1 tvg-id=".br" tvg-name="" tvg-logo="" group-title="Canais | Filmes e Séries",
 https://embedcanaistv.site/hbo/tracks-v1a1/mono.m3u8
 INFANTIL
 
