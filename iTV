@@ -5,9 +5,9 @@ ABERTOS
 
 
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Globo.png" group-title="Canais | Abertos",Globo
-https://embedcanaistv.site/globorj/tracks-v1a1/mono.m3u8
+https://stream1.freetv.fun/globo-rj-1.ctv
 #EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="Canais | Abertos",SBT
-https://embedcanaistv.site/sbtsp/tracks-v1a1/mono.m3u8
+https://stream1.freetv.fun/sbt-rj-2-1.ctv
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Canais | Abertos",RecordTV
 https://embedcanaistv.site/recordsp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-0.png" group-title="Canais | Abertos",Band
@@ -28,7 +28,7 @@ https://embedcanaistv.site/bandnews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png" group-title="Canais | Notícias",Globo News
 https://embedcanaistv.site/globonews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png" group-title="Canais | Notícias",CNN Brasil
-https://embedcanaistv.site/cnnbrasil/tracks-v1a1/mono.m3u8
+https://stream1.freetv.fun/cnn-brasil-1.m3u8
 #EXTINF:-1 tvg-id="JPnews.br" tvg-name="JP News" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/jp.webp" group-title="Canais | Notícias",JP News
 https://embedcanaistv.site/jovempannews/tracks-v1a1/mono.m3u8
 
@@ -70,7 +70,7 @@ ESPORTES
 
 
 #EXTINF:-1 tvg-id="SporTV.br" tvg-name="Sportv" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-4-1.png" group-title="Canais | Esportes",Sportv
-https://embedcanaistv.site/sportv/tracks-v1a1/mono.m3u8
+https://stream1.freetv.fun/0207e985f9d4b1b09265e9825eeb3e2a51514b2c66978aa646edef5758890893.ctv
 #EXTINF:-1 tvg-id="SporTV2.br" tvg-name="Sportv2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-4-1.png" group-title="Canais | Esportes",Sportv2
 https://embedcanaistv.site/sportv2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SporTV3.br" tvg-name="Sportv3" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-4-1.png" group-title="Canais | Esportes",Sportv3
@@ -178,18 +178,18 @@ https://embedcanaistv.site/hbopop/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/gbosugnature-300x150-1.webp" group-title="Canais | Filmes e Séries",HBO Signature
 https://embedcanaistv.site/hbosignature/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hboxtreme.webp" group-title="Canais | Filmes e Séries",HBO Xtreme
-https://embedcanaistv.site/hboxtreme/tracks-v1a1/mono.m3u8
+https://stream1.freetv.fun/hbo-xtreme-3.ctv
 
 #EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcaction.webp" group-title="Canais | Filmes e Séries",Telecine Action
 https://embedcanaistv.site/tcaction/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tccult.webp" group-title="Canais | Filmes e Séries",Telecine Cult
-https://embedcanaistv.site/tccult/tracks-v1a1/mono.m3u8
+https://stream1.freetv.fun/telecine-cult-1.ctv
 #EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcfun.webp" group-title="Canais | Filmes e Séries",Telecine Fun
 https://embedcanaistv.site/tcfun/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcpipoca.webp" group-title="Canais | Filmes e Séries",Telecine Pipoca
-https://embedcanaistv.site/tcpipoca/tracks-v1a1/mono.m3u8
+https://stream1.freetv.fun/telecine-pipoca-2.ctv
 #EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcpremium.webp" group-title="Canais | Filmes e Séries",Telecine Premium
-https://embedcanaistv.site/tcpremium/tracks-v1a1/mono.m3u8
+Telecine Premium Brazil,https://stream1.freetv.fun/telecine-premium-2.m3u8
 #EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tctouch.webp" group-title="Canais | Filmes e Séries",Telecine Touch
 https://embedcanaistv.site/tctouch/tracks-v1a1/mono.m3u8
 
@@ -241,7 +241,7 @@ https://embedcanaistv.site/universaltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="USA.br" tvg-name="USA" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/usa.webp" group-title="Canais | Filmes e Séries",USA
 https://embedcanaistv.site/usa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Warner.br" tvg-name="Warner TV" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/warner.webp" group-title="Canais | Filmes e Séries",Warner TV
-https://embedcanaistv.site/warner/tracks-v1a1/mono.m3u8
+https://stream1.freetv.fun/warner-channel-1.ctv
 
 
 VARIEDADES
