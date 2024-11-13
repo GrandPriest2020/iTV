@@ -1,2 +1,1 @@
-
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6102e04e9ab1db0007a980a1livestitch/2977920/playlist.m3u8?terminate=false&sid=21afa10f-a1f4-11ef-a332-5e7140f9df4c&deviceDNT=0&deviceLat=-10.03000020980835&deviceLon=-102.81999969482422&deviceModel=web&deviceVersion=130.0.0&includeExtendedEvents=true&appName=web&DRMCapabilities=widevine&deviceId=e4fb9b99-f98a-459a-a16c-0a7dc0670a38&appVersion=9.5.0-74992cec19532978f36754a29fbf3068a09f0b19&deviceType=web&deviceMake=edge-chromium
