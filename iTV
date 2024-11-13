@@ -22,7 +22,7 @@ NOTÍCIAS
 
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="https://static.ndonline.com.br/2020/07/news-logo-800x345.png" group-title="Canais | Notícias",Record News
-https://embedcanaistv.site/recordnews/tracks-v1a1/mono.m3u8
+https://raw.githubusercontent.com/GrandPriest2020/iTV/refs/heads/master/channels/recordnews.txt
 #EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="Canais | Notícias",Band News
 https://embedcanaistv.site/bandnews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png" group-title="Canais | Notícias",Globo News
