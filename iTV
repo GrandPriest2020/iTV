@@ -189,7 +189,7 @@ https://embedcanaistv.site/tcfun/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcpipoca.webp" group-title="Canais | Filmes e Séries",Telecine Pipoca
 https://stream1.freetv.fun/telecine-pipoca-2.ctv
 #EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcpremium.webp" group-title="Canais | Filmes e Séries",Telecine Premium
-Telecine Premium Brazil,https://stream1.freetv.fun/telecine-premium-2.m3u8
+https://stream1.freetv.fun/telecine-premium-2.m3u8
 #EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tctouch.webp" group-title="Canais | Filmes e Séries",Telecine Touch
 https://embedcanaistv.site/tctouch/tracks-v1a1/mono.m3u8
 
