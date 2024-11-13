@@ -5,7 +5,7 @@ ABERTOS
 
 
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Globo.png" group-title="Canais | Abertos",Globo
-https://stream1.freetv.fun/globo-rj-1.ctv
+https://raw.githubusercontent.com/GrandPriest2020/iTV/refs/heads/master/channels/globo.m3u8
 #EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="Canais | Abertos",SBT
 https://stream1.freetv.fun/sbt-rj-2-1.ctv
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Canais | Abertos",RecordTV
