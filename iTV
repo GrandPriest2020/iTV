@@ -49,7 +49,7 @@ DISCOVERY CHANNELS
 
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="Canais | Discovery",Discovery Channel
-https://embedcanaistv.site/discoverychannel/tracks-v1a1/mono.m3u8
+https://cdn-5.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.br" tvg-name="Discovery Home & Health" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryhh.webp" group-title="Canais | Discovery",Discovery Home & Health
 https://embedcanaistv.site/discoveryhh/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryscience.webp" group-title="Canais | Discovery",Discovery Science
