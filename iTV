@@ -38,12 +38,11 @@ DOCUMENTÁRIOS
 #EXTINF:-1 tvg-id="NationalGeographic.br" tvg-name="NatGeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Canais | Documentários",NatGeo
 https://embedcanaistv.site/nationalgeografic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png" group-title="Canais | Documentários",Animal Planet
-https://embedcanaistv.site/animalplanet/tracks-v1a1/mono.m3u8
+https://cdn-5.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 #EXTINF:-1 tvg-id="History.br" tvg-name="History" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png" group-title="Canais | Documentários",History
-https://embedcanaistv.site/history/tracks-v1a1/mono.m3u8
+https://cdn-5.nxplay.com.br/HISTORY_TK/index.m3u8
 #EXTINF:-1 tvg-id="History2.br" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Canais | Documentários",History 2
-https://embedcanaistv.site/history2/tracks-v1a1/mono.m3u8
-
+https://cdn-5.nxplay.com.br/HISTORY_2_TK/index.m3u8
 
 DISCOVERY CHANNELS
 
