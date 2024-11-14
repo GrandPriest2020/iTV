@@ -78,9 +78,9 @@ ESPORTES
 #EXTINF:-1 tvg-id="SporTV.br" tvg-name="Sportv" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-4-1.png" group-title="Canais | Esportes",Sportv
 https://stream1.freetv.fun/0207e985f9d4b1b09265e9825eeb3e2a51514b2c66978aa646edef5758890893.ctv
 #EXTINF:-1 tvg-id="SporTV2.br" tvg-name="Sportv2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-4-1.png" group-title="Canais | Esportes",Sportv2
-https://embedcanaistv.site/sportv2/tracks-v1a1/mono.m3u8
+https://super-cdn.link/sportv2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SporTV3.br" tvg-name="Sportv3" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-4-1.png" group-title="Canais | Esportes",Sportv3
-https://embedcanaistv.site/sportv3/tracks-v1a1/mono.m3u8
+https://super-cdn.link/sportv3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes" tvg-logo="" group-title="Canais | Esportes",Premiere Clubes
 https://super-cdn.link/premiereclubes/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere2" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere2
