@@ -49,20 +49,27 @@ DISCOVERY CHANNELS
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="Canais | Discovery",Discovery Channel
 https://cdn-5.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.br" tvg-name="Discovery Home & Health" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryhh.webp" group-title="Canais | Discovery",Discovery Home & Health
-https://embedcanaistv.site/discoveryhh/tracks-v1a1/mono.m3u8
+https://cdn-5.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryscience.webp" group-title="Canais | Discovery",Discovery Science
-https://embedcanaistv.site/discoveryscience/tracks-v1a1/mono.m3u8
+https://cdn-5.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryTheater.br" tvg-name="Discovery Theater" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoverytheater.webp" group-title="Canais | Discovery",Discovery Theater
-https://embedcanaistv.site/discoverytheater/tracks-v1a1/mono.m3u8
+https://cdn-5.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-name="Discovery World" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveyworld.webp" group-title="Canais | Discovery",Discovery World
-https://embedcanaistv.site/discoveryworld/tracks-v1a1/mono.m3u8
+https://cdn-5.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+
 #EXTINF:-1 tvg-id="InvestigacaoDiscovery.br" tvg-name="Discovery ID" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryid.webp" group-title="Canais | Discovery",Discovery ID
-https://embedcanaistv.site/discoveryid/tracks-v1a1/mono.m3u8
+https://cdn-5.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-name="Discovery Turbo" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryturbo.webp" group-title="Canais | Discovery",Discovery Turbo
 https://cdn-5.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryKids.br" tvg-name="Discovery KIds" tvg-logo="https://i.imgur.com/6uoNAAj.png" group-title="Canais | Discovery",Discovery KIds
-https://embedcanaistv.site/discoverykids/tracks-v1a1/mono.m3u8
+hhttps://cdn-5.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 
 
 ESPORTES
