@@ -170,21 +170,21 @@ FILMES E SÉRIES
 
 
 #EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO" tvg-logo="https://www.pngall.com/wp-content/uploads/15/HBO-Logo-PNG-Image.png" group-title="Canais | Filmes e Séries",HBO
-https://embedcanaistv.site/hbo/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hbo2.webp" group-title="Canais | Filmes e Séries",HBO 2
-https://embedcanaistv.site/hbo2/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/hbo2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="HBO Family" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hbo-family.webp" group-title="Canais | Filmes e Séries",HBO Family
-https://embedcanaistv.site/hbofamily/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/hbofamily/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hbomundi-300x150-1.webp" group-title="Canais | Filmes e Séries",HBO Mundi
-https://embedcanaistv.site/hbomundi/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/hbomundi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="HBO Plus" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hboplus.webp" group-title="Canais | Filmes e Séries",HBO Plus
-https://embedcanaistv.site/hboplus/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/hboplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO Pop" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hbopop.webp" group-title="Canais | Filmes e Séries",HBO Pop
-https://embedcanaistv.site/hbopop/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/hbopop/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/gbosugnature-300x150-1.webp" group-title="Canais | Filmes e Séries",HBO Signature
-https://embedcanaistv.site/hbosignature/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/hbosignature/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hboxtreme.webp" group-title="Canais | Filmes e Séries",HBO Xtreme
-https://stream1.freetv.fun/hbo-xtreme-3.ctv
+https://abc.embedmax.site/hboxtreme/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcaction.webp" group-title="Canais | Filmes e Séries",Telecine Action
 https://abc.embedmax.site/tcaction/tracks-v1a1/mono.m3u8
