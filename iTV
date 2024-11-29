@@ -5,13 +5,13 @@ ABERTOS
 
 
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Globo.png" group-title="Canais | Abertos",Globo
-https://raw.githubusercontent.com/GrandPriest2020/iTV/refs/heads/master/channels/globo.m3u8
+https://abc.embedmax.site/globonordeste/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="Canais | Abertos",SBT
-https://www.youtube.com/watch?v=Tii6ljAdSm0&ab_channel=SBTCENTRAL
+https://abc.embedmax.site/sbt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Canais | Abertos",RecordTV
-https://embedcanaistv.site/recordsp/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/recordSP/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-0.png" group-title="Canais | Abertos",Band
-https://embedcanaistv.site/bandsp/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/band/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="RedeTV" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="Canais | Abertos",RedeTV
 https://embedcanaistv.site/redetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo.png" group-title="Canais | Abertos",TV Cultura
@@ -22,15 +22,15 @@ NOTÍCIAS
 
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="https://static.ndonline.com.br/2020/07/news-logo-800x345.png" group-title="Canais | Notícias",Record News
-https://raw.githubusercontent.com/GrandPriest2020/iTV/refs/heads/master/channels/recordnews.txt
+https://abc.embedmax.site/recordnews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="Canais | Notícias",Band News
-https://embedcanaistv.site/bandnews/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/bandnews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png" group-title="Canais | Notícias",Globo News
-https://embedcanaistv.site/globonews/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/globonews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png" group-title="Canais | Notícias",CNN Brasil
 https://stream1.freetv.fun/cnn-brasil-1.m3u8
 #EXTINF:-1 tvg-id="JPnews.br" tvg-name="JP News" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/jp.webp" group-title="Canais | Notícias",JP News
-https://embedcanaistv.site/jovempannews/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/jovempan/tracks-v1a1/mono.m3u8
 
 DOCUMENTÁRIOS
 
@@ -131,13 +131,28 @@ https://embedcanaistv.site/max4/tracks-v1a1/mono.m3u8
 https://embedcanaistv.site/starplus/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Paramount +" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/paramount-300x150-1.webp" group-title="Canais | Esportes", Paramount +
-https://embedcanaistv.site/paramountplus/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/paramountmais1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Paramount +2" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/paramount-300x150-1.webp" group-title="Canais | Esportes", Paramount +2
+https://abc.embedmax.site/paramountmais2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Paramount +3" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/paramount-300x150-1.webp" group-title="Canais | Esportes", Paramount +3
+https://abc.embedmax.site/paramountmais3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Paramount +4" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/paramount-300x150-1.webp" group-title="Canais | Esportes", Paramount +4
+https://abc.embedmax.site/paramountmais4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/09/amazonprime.webp" group-title="Canais | Esportes", Amazon Prime Video
 https://embedcanaistv.site/amazonprimevideo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cazé TV" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/caze.webp" group-title="Canais | Esportes", Cazé TV
-https://embedcanaistv.site/cazetv/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/cazetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cazé TV2" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/caze.webp" group-title="Canais | Esportes", Cazé TV2
+https://abc.embedmax.site/cazetv2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cazé TV3" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/caze.webp" group-title="Canais | Esportes", Cazé TV3
+https://abc.embedmax.site/cazetv3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="Nosso Futebol" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/09/nossofutebol.webp" group-title="Canais | Esportes", Nosso Futebol
 https://embedcanaistv.site/nossofutebol/tracks-v1a1/mono.m3u8
@@ -146,9 +161,9 @@ https://embedcanaistv.site/nossofutebol/tracks-v1a1/mono.m3u8
 https://embedcanaistv.site/bandsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/combate-1.webp" group-title="Canais | Esportes", Combate
-https://embedcanaistv.site/combate/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/band/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/09/ufcflightpass.webp" group-title="Canais | Esportes", UFC Fight Pass
-https://embedcanaistv.site/ufcfightpass/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/ufcfightpass/tracks-v1a1/mono.m3u8
 
 INFANTIL
 
@@ -211,13 +226,11 @@ https://abc.embedmax.site/axn/tracks-v1a1/mono.m3u8
 https://abc.embedmax.site/cinecanal/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/cinemax.webp" group-title="Canais | Filmes e Séries",Cinemax
-https://abc.embedmax.site/hbo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id=".br" tvg-name="Darflix" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/darkflix-1.webp" group-title="Canais | Filmes e Séries",Darkflix
-https://abc.embedmax.site/darflix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id=".br" tvg-name="Darkmatter" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/Dark-Matter-TV.webp" group-title="Canais | Filmes e Séries",Dark Matter
-https://embedcanaistv.site/hbo/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/cinemax/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="FilmandArts.br" tvg-name="" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/FilmeArts-Brasil-300x150-1.webp" group-title="Canais | Filmes e Séries",Film&Arts Brasil
 https://abc.embedmax.site/filmarts/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="FX.br" tvg-name="FX" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/fx.webp" group-title="Canais | Filmes e Séries",FX
 https://abc.embedmax.site/fx/tracks-v1a1/mono.m3u8
 
@@ -229,8 +242,7 @@ https://abc.embedmax.site/moviesphere/tracks-v1a1/mono.m3u8
 https://abc.embedmax.site/sonychannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Space.br" tvg-name="Space" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/space-300x150-1.webp" group-title="Canais | Filmes e Séries",Space
 https://abc.embedmax.site/space/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id=".br" tvg-name="Spark TV Luz e Amor" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/sparktv.webp" group-title="Canais | Filmes e Séries",Spark TV Luz e Amor
-https://abc.embedmax.site/sparktvluzeamor/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="StarChannel.br" tvg-name="Star Channel" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/Star-Channel.webp" group-title="Canais | Filmes e Séries",Star Channel
 https://abc.embedmax.site/starchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="StudioUniversal.br" tvg-name="Studio Universal" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/studio-300x150-1.webp" group-title="Canais | Filmes e Séries",Studio Universal
