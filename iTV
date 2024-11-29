@@ -36,7 +36,7 @@ DOCUMENTÁRIOS
 
 
 #EXTINF:-1 tvg-id="NationalGeographic.br" tvg-name="NatGeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Canais | Documentários",NatGeo
-https://embedcanaistv.site/nationalgeografic/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/nationalgeographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png" group-title="Canais | Documentários",Animal Planet
 https://cdn-5.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 #EXTINF:-1 tvg-id="History.br" tvg-name="History" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png" group-title="Canais | Documentários",History
@@ -200,52 +200,52 @@ https://stream1.freetv.fun/telecine-premium-2.m3u8
 https://abc.embedmax.site/tctouch/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/ae.webp" group-title="Canais | Filmes e Séries",A&E
-https://embedcanaistv.site/aee/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/aee/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AdultSwim.br" tvg-name="Adult Swim" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/Adult-Swim.webp" group-title="Canais | Filmes e Séries",Adult Swim
-https://embedcanaistv.site/adultswim/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/adultswim/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/amc.webp" group-title="Canais | Filmes e Séries",AMC
-https://embedcanaistv.site/amc/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/amc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/axn.webp" group-title="Canais | Filmes e Séries",AXN
-https://embedcanaistv.site/axn/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/axn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="Cinecanal" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/cinecanal.webp" group-title="Canais | Filmes e Séries",Cinecanal
-https://embedcanaistv.site/cinecanal/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/cinecanal/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/cinemax.webp" group-title="Canais | Filmes e Séries",Cinemax
-https://embedcanaistv.site/hbo/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id=".br" tvg-name="Darflix" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/darkflix-1.webp" group-title="Canais | Filmes e Séries",Darkflix
-https://embedcanaistv.site/darflix/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/darflix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id=".br" tvg-name="Darkmatter" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/Dark-Matter-TV.webp" group-title="Canais | Filmes e Séries",Dark Matter
 https://embedcanaistv.site/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FilmandArts.br" tvg-name="" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/FilmeArts-Brasil-300x150-1.webp" group-title="Canais | Filmes e Séries",Film&Arts Brasil
-https://embedcanaistv.site/filmarts/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/filmarts/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FX.br" tvg-name="FX" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/fx.webp" group-title="Canais | Filmes e Séries",FX
-https://embedcanaistv.site/fx/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/fx/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/megapix-300x150.webp" group-title="Canais | Filmes e Séries",Megapix
-https://embedcanaistv.site/megapix/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/megapix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.br" tvg-name="MovieSphere" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/moviesphere.webp" group-title="Canais | Filmes e Séries",MovieSphere
-https://embedcanaistv.site/moviesphere/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/moviesphere/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Sony Channel" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/sony-300x150-1.webp" group-title="Canais | Filmes e Séries",Sony Channel
-https://embedcanaistv.site/sonychannel/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/sonychannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Space.br" tvg-name="Space" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/space-300x150-1.webp" group-title="Canais | Filmes e Séries",Space
-https://embedcanaistv.site/space/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/space/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id=".br" tvg-name="Spark TV Luz e Amor" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/sparktv.webp" group-title="Canais | Filmes e Séries",Spark TV Luz e Amor
-https://embedcanaistv.site/sparktvluzeamor/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/sparktvluzeamor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="StarChannel.br" tvg-name="Star Channel" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/Star-Channel.webp" group-title="Canais | Filmes e Séries",Star Channel
-https://embedcanaistv.site/starchannel/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/starchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="StudioUniversal.br" tvg-name="Studio Universal" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/studio-300x150-1.webp" group-title="Canais | Filmes e Séries",Studio Universal
-https://embedcanaistv.site/studiouniversal/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/studiouniversal/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/tnt-300x150-1.webp" group-title="Canais | Filmes e Séries",TNT
-https://embedcanaistv.site/tnt/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/tnt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.br" tvg-name="TNT Novelas" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/tntnovelas2.webp" group-title="Canais | Filmes e Séries",TNT Novelas
-https://embedcanaistv.site/tntnovelas/tracks-v1a1/mono.m3u8
+https://eabc.embedmax.site/tntnovelas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="TNT Series" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/tntseries.webp" group-title="Canais | Filmes e Séries",TNT Series
-https://embedcanaistv.site/tntseries/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/tntseries/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal TV" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/universaltv.webp" group-title="Canais | Filmes e Séries", Universal TV
-https://embedcanaistv.site/universaltv/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/universaltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="USA.br" tvg-name="USA" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/usa.webp" group-title="Canais | Filmes e Séries",USA
-https://embedcanaistv.site/usa/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/usa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Warner.br" tvg-name="Warner TV" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/warner.webp" group-title="Canais | Filmes e Séries",Warner TV
 https://stream1.freetv.fun/warner-channel-1.ctv
 
