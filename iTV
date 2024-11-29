@@ -38,39 +38,38 @@ DOCUMENTÁRIOS
 #EXTINF:-1 tvg-id="NationalGeographic.br" tvg-name="NatGeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Canais | Documentários",NatGeo
 https://abc.embedmax.site/nationalgeographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png" group-title="Canais | Documentários",Animal Planet
-https://cdn-5.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+https://abc.embedmax.site/animalplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="History.br" tvg-name="History" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png" group-title="Canais | Documentários",History
-https://cdn-5.nxplay.com.br/HISTORY_TK/index.m3u8
+https://abc.embedmax.site/history/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="History2.br" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Canais | Documentários",History 2
-https://cdn-5.nxplay.com.br/HISTORY_2_TK/index.m3u8
+https://abc.embedmax.site/history2/tracks-v1a1/mono.m3u8
 
 DISCOVERY CHANNELS
 
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="Canais | Discovery",Discovery Channel
-https://cdn-5.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+https://abc.embedmax.site/discoverychannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.br" tvg-name="Discovery Home & Health" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryhh.webp" group-title="Canais | Discovery",Discovery Home & Health
-https://cdn-5.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
+https://abc.embedmax.site/discoveryheh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryscience.webp" group-title="Canais | Discovery",Discovery Science
-https://cdn-5.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+https://abc.embedmax.site/discoveryscience/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryTheater.br" tvg-name="Discovery Theater" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoverytheater.webp" group-title="Canais | Discovery",Discovery Theater
-https://cdn-5.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
+https://abc.embedmax.site/discoverytheater/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-name="Discovery World" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveyworld.webp" group-title="Canais | Discovery",Discovery World
-https://cdn-5.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+https://abc.embedmax.site/discoveryworld/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="InvestigacaoDiscovery.br" tvg-name="Discovery ID" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryid.webp" group-title="Canais | Discovery",Discovery ID
-https://cdn-5.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
+https://abc.embedmax.site/discoveryid/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-name="Discovery Turbo" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryturbo.webp" group-title="Canais | Discovery",Discovery Turbo
-https://cdn-5.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
+https://abc.embedmax.site/discoveryturbo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryKids.br" tvg-name="Discovery KIds" tvg-logo="https://i.imgur.com/6uoNAAj.png" group-title="Canais | Discovery",Discovery KIds
-hhttps://cdn-5.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
-
+https://abc.embedmax.site/discoverykids/tracks-v1a1/mono.m3u8
 
 ESPORTES
 
@@ -132,13 +131,10 @@ https://embedcanaistv.site/starplus/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Paramount +" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/paramount-300x150-1.webp" group-title="Canais | Esportes", Paramount +
 https://abc.embedmax.site/paramountmais1/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Paramount +2" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/paramount-300x150-1.webp" group-title="Canais | Esportes", Paramount +2
 https://abc.embedmax.site/paramountmais2/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Paramount +3" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/paramount-300x150-1.webp" group-title="Canais | Esportes", Paramount +3
 https://abc.embedmax.site/paramountmais3/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Paramount +4" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/paramount-300x150-1.webp" group-title="Canais | Esportes", Paramount +4
 https://abc.embedmax.site/paramountmais4/tracks-v1a1/mono.m3u8
 
@@ -146,11 +142,9 @@ https://abc.embedmax.site/paramountmais4/tracks-v1a1/mono.m3u8
 https://embedcanaistv.site/amazonprimevideo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cazé TV" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/caze.webp" group-title="Canais | Esportes", Cazé TV
-https://abc.embedmax.site/cazetv/tracks-v1a1/mono.m3u8
-
+https://abc.embedmax.site/cazetv1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cazé TV2" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/caze.webp" group-title="Canais | Esportes", Cazé TV2
 https://abc.embedmax.site/cazetv2/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Cazé TV3" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/caze.webp" group-title="Canais | Esportes", Cazé TV3
 https://abc.embedmax.site/cazetv3/tracks-v1a1/mono.m3u8
 
@@ -161,7 +155,7 @@ https://embedcanaistv.site/nossofutebol/tracks-v1a1/mono.m3u8
 https://embedcanaistv.site/bandsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/combate-1.webp" group-title="Canais | Esportes", Combate
-https://abc.embedmax.site/band/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/combate/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/09/ufcflightpass.webp" group-title="Canais | Esportes", UFC Fight Pass
 https://abc.embedmax.site/ufcfightpass/tracks-v1a1/mono.m3u8
 
@@ -215,7 +209,7 @@ https://stream1.freetv.fun/telecine-premium-2.m3u8
 https://abc.embedmax.site/tctouch/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/ae.webp" group-title="Canais | Filmes e Séries",A&E
-https://abc.embedmax.site/aee/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/ae/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AdultSwim.br" tvg-name="Adult Swim" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/Adult-Swim.webp" group-title="Canais | Filmes e Séries",Adult Swim
 https://abc.embedmax.site/adultswim/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/amc.webp" group-title="Canais | Filmes e Séries",AMC
