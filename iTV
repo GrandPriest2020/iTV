@@ -12,9 +12,9 @@ https://abc.embedmax.site/sbt/tracks-v1a1/mono.m3u8
 https://abc.embedmax.site/recordSP/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-0.png" group-title="Canais | Abertos",Band
 https://abc.embedmax.site/band/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="RedeTV" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="Canais | Abertos",RedeTV
+#EXTINF:-1 tvg-id="REDETV.HD.br" tvg-name="RedeTV" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="Canais | Abertos",RedeTV
 https://embedcanaistv.site/redetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo.png" group-title="Canais | Abertos",TV Cultura
+#EXTINF:-1 tvg-id="Cultura.HD.br" tvg-name="TV Cultura" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo.png" group-title="Canais | Abertos",TV Cultura
 https://embedcanaistv.site/tvcultura/tracks-v1a1/mono.m3u8
 
 
@@ -131,7 +131,7 @@ https://abc.embedmax.site/cazetv3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/bandsports.webp" group-title="Canais | Esportes", Band Sports
 https://abc.embedmax.site/bandsports/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/combate-1.webp" group-title="Canais | Esportes", Combate
+#EXTINF:-1 tvg-id="Combate.HD.br" tvg-name="Combate" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/combate-1.webp" group-title="Canais | Esportes", Combate
 https://abc.embedmax.site/combate/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/09/ufcflightpass.webp" group-title="Canais | Esportes", UFC Fight Pass
 https://abc.embedmax.site/ufcfightpass/tracks-v1a1/mono.m3u8
@@ -139,89 +139,89 @@ https://abc.embedmax.site/ufcfightpass/tracks-v1a1/mono.m3u8
 INFANTIL
 
 
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Infantil",Gloob
+#EXTINF:-1 tvg-id="Gloob.HD.br" tvg-name="Gloob" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Infantil",Gloob
 https://abc.embedmax.site/gloob/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Gloobonho.br" tvg-name="Gloobinho" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Infantil",Gloobinho
+#EXTINF:-1 tvg-id="Gloobonho.HD.br" tvg-name="Gloobinho" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Infantil",Gloobinho
 https://abc.embedmax.site/gloobinho/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="Canais | Infantil",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.HD.br" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="Canais | Infantil",Nickelodeon
 https://abc.embedmax.site/nickelodeon/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Nickjr.br" tvg-name="Nickjr" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="Canais | Infantil",Nickjr
+#EXTINF:-1 tvg-id="Nick.Jr..HD.br" tvg-name="Nickjr" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="Canais | Infantil",Nickjr
 https://abc.embedmax.site/nickjr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.br" tvg-name="Disney Channel" tvg-logo="https://commons.wikimedia.org/wiki/File:Disney_channel_2020.png" group-title="Canais | Infantil",Disney Channel
+#EXTINF:-1 tvg-id="Disney.Channel.HD.br" tvg-name="Disney Channel" tvg-logo="https://commons.wikimedia.org/wiki/File:Disney_channel_2020.png" group-title="Canais | Infantil",Disney Channel
 https://abc.embedmax.site/disneychannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="Canais | Infantil",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon.HD.br" tvg-name="Cartoon Network" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="Canais | Infantil",Cartoon Network
 https://abc.embedmax.site/cartoonnetwork/tracks-v1a1/mono.m3u8
 
 FILMES E SÉRIES
 
 
-#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO" tvg-logo="https://www.pngall.com/wp-content/uploads/15/HBO-Logo-PNG-Image.png" group-title="Canais | Filmes e Séries",HBO
+#EXTINF:-1 tvg-id="HBO.HD.br" tvg-name="HBO" tvg-logo="https://www.pngall.com/wp-content/uploads/15/HBO-Logo-PNG-Image.png" group-title="Canais | Filmes e Séries",HBO
 https://abc.embedmax.site/hbo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hbo2.webp" group-title="Canais | Filmes e Séries",HBO 2
+#EXTINF:-1 tvg-id="HBO.2.HD.br" tvg-name="HBO 2" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hbo2.webp" group-title="Canais | Filmes e Séries",HBO 2
 https://abc.embedmax.site/hbo2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="HBO Family" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hbo-family.webp" group-title="Canais | Filmes e Séries",HBO Family
+#EXTINF:-1 tvg-id="HBO.Family.HD.br" tvg-name="HBO Family" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hbo-family.webp" group-title="Canais | Filmes e Séries",HBO Family
 https://abc.embedmax.site/hbofamily/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hbomundi-300x150-1.webp" group-title="Canais | Filmes e Séries",HBO Mundi
+#EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO Mundi" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hbomundi-300x150-1.webp" group-title="Canais | Filmes e Séries",HBO Mundi
 https://abc.embedmax.site/hbomundi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="HBO Plus" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hboplus.webp" group-title="Canais | Filmes e Séries",HBO Plus
+#EXTINF:-1 tvg-id="HBO.Plus.HD.br" tvg-name="HBO Plus" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hboplus.webp" group-title="Canais | Filmes e Séries",HBO Plus
 https://abc.embedmax.site/hboplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO Pop" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hbopop.webp" group-title="Canais | Filmes e Séries",HBO Pop
+#EXTINF:-1 tvg-id="HBO.Pop.HD.br" tvg-name="HBO Pop" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hbopop.webp" group-title="Canais | Filmes e Séries",HBO Pop
 https://abc.embedmax.site/hbopop/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/gbosugnature-300x150-1.webp" group-title="Canais | Filmes e Séries",HBO Signature
+#EXTINF:-1 tvg-id="HBO.Signature.HD.br" tvg-name="HBO Signature" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/gbosugnature-300x150-1.webp" group-title="Canais | Filmes e Séries",HBO Signature
 https://abc.embedmax.site/hbosignature/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hboxtreme.webp" group-title="Canais | Filmes e Séries",HBO Xtreme
+#EXTINF:-1 tvg-id="HBO.Xtreme.HD.br" tvg-name="HBO Xtreme" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hboxtreme.webp" group-title="Canais | Filmes e Séries",HBO Xtreme
 https://abc.embedmax.site/hboxtreme/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcaction.webp" group-title="Canais | Filmes e Séries",Telecine Action
+#EXTINF:-1 tvg-id="Telecine.Action.br" tvg-name="Telecine Action" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcaction.webp" group-title="Canais | Filmes e Séries",Telecine Action
 https://abc.embedmax.site/tcaction/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tccult.webp" group-title="Canais | Filmes e Séries",Telecine Cult
+#EXTINF:-1 tvg-id="Telecine.Cult.br" tvg-name="Telecine Cult" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tccult.webp" group-title="Canais | Filmes e Séries",Telecine Cult
 https://abc.embedmax.site/tccult/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcfun.webp" group-title="Canais | Filmes e Séries",Telecine Fun
+#EXTINF:-1 tvg-id="Telecine.Fun.br" tvg-name="Telecine Fun" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcfun.webp" group-title="Canais | Filmes e Séries",Telecine Fun
 https://abc.embedmax.site/tcfun/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcpipoca.webp" group-title="Canais | Filmes e Séries",Telecine Pipoca
+#EXTINF:-1 tvg-id="Telecine.Pipoca.br" tvg-name="Telecine Pipoca" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcpipoca.webp" group-title="Canais | Filmes e Séries",Telecine Pipoca
 https://stream1.freetv.fun/telecine-pipoca-2.ctv
-#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcpremium.webp" group-title="Canais | Filmes e Séries",Telecine Premium
+#EXTINF:-1 tvg-id="Telecine.HD.br" tvg-name="Telecine Premium" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcpremium.webp" group-title="Canais | Filmes e Séries",Telecine Premium
 https://abc.embedmax.site/tcpremium/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tctouch.webp" group-title="Canais | Filmes e Séries",Telecine Touch
+#EXTINF:-1 tvg-id="Telecine.Touch.br" tvg-name="Telecine Touch" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tctouch.webp" group-title="Canais | Filmes e Séries",Telecine Touch
 https://abc.embedmax.site/tctouch/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/ae.webp" group-title="Canais | Filmes e Séries",A&E
+#EXTINF:-1 tvg-id="A.and.E.HD.br" tvg-name="A&E" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/ae.webp" group-title="Canais | Filmes e Séries",A&E
 https://abc.embedmax.site/ae/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="AdultSwim.br" tvg-name="Adult Swim" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/Adult-Swim.webp" group-title="Canais | Filmes e Séries",Adult Swim
+#EXTINF:-1 tvg-id="Adult.Swim.HD.br" tvg-name="Adult Swim" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/Adult-Swim.webp" group-title="Canais | Filmes e Séries",Adult Swim
 https://abc.embedmax.site/adultswim/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/amc.webp" group-title="Canais | Filmes e Séries",AMC
 https://abc.embedmax.site/amc/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/axn.webp" group-title="Canais | Filmes e Séries",AXN
+#EXTINF:-1 tvg-id="AXN.HD.br" tvg-name="AXN" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/axn.webp" group-title="Canais | Filmes e Séries",AXN
 https://abc.embedmax.site/axn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.br" tvg-name="Cinecanal" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/cinecanal.webp" group-title="Canais | Filmes e Séries",Cinecanal
 https://abc.embedmax.site/cinecanal/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/cinemax.webp" group-title="Canais | Filmes e Séries",Cinemax
+#EXTINF:-1 tvg-id="Cinemax.HD.br" tvg-name="Cinemax" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/cinemax.webp" group-title="Canais | Filmes e Séries",Cinemax
 https://abc.embedmax.site/cinemax/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="FilmandArts.br" tvg-name="" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/FilmeArts-Brasil-300x150-1.webp" group-title="Canais | Filmes e Séries",Film&Arts Brasil
+#EXTINF:-1 tvg-id="Film.and.Arts.br" tvg-name="" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/FilmeArts-Brasil-300x150-1.webp" group-title="Canais | Filmes e Séries",Film&Arts Brasil
 https://abc.embedmax.site/filmarts/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="FX.br" tvg-name="FX" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/fx.webp" group-title="Canais | Filmes e Séries",FX
 https://abc.embedmax.site/fx/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/megapix-300x150.webp" group-title="Canais | Filmes e Séries",Megapix
+#EXTINF:-1 tvg-id="Megapix.HD.br" tvg-name="Megapix" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/megapix-300x150.webp" group-title="Canais | Filmes e Séries",Megapix
 https://abc.embedmax.site/megapix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Sony Channel" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/sony-300x150-1.webp" group-title="Canais | Filmes e Séries",Sony Channel
+#EXTINF:-1 tvg-id="Sony.HD.br" tvg-name="Sony Channel" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/sony-300x150-1.webp" group-title="Canais | Filmes e Séries",Sony Channel
 https://abc.embedmax.site/sonychannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/space-300x150-1.webp" group-title="Canais | Filmes e Séries",Space
+#EXTINF:-1 tvg-id="Space.HD.br" tvg-name="Space" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/space-300x150-1.webp" group-title="Canais | Filmes e Séries",Space
 https://abc.embedmax.site/space/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="StarChannel.br" tvg-name="Star Channel" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/Star-Channel.webp" group-title="Canais | Filmes e Séries",Star Channel
+#EXTINF:-1 tvg-id="STAR.Channel.br" tvg-name="Star Channel" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/Star-Channel.webp" group-title="Canais | Filmes e Séries",Star Channel
 https://abc.embedmax.site/starchannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="StudioUniversal.br" tvg-name="Studio Universal" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/studio-300x150-1.webp" group-title="Canais | Filmes e Séries",Studio Universal
+#EXTINF:-1 tvg-id="Studio.Universal.br" tvg-name="Studio Universal" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/studio-300x150-1.webp" group-title="Canais | Filmes e Séries",Studio Universal
 https://abc.embedmax.site/studiouniversal/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/tnt-300x150-1.webp" group-title="Canais | Filmes e Séries",TNT
 https://abc.embedmax.site/tnt/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal TV" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/universaltv.webp" group-title="Canais | Filmes e Séries", Universal TV
+#EXTINF:-1 tvg-id="Universal.TV.HD.br" tvg-name="Universal TV" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/universaltv.webp" group-title="Canais | Filmes e Séries", Universal TV
 https://abc.embedmax.site/universaltv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Warner.br" tvg-name="Warner TV" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/warner.webp" group-title="Canais | Filmes e Séries",Warner TV
@@ -233,38 +233,38 @@ https://abc.embedmax.site/canalbrasil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="SyFy" tvg-logo="" group-title="Canais | Filmes e Séries",SyFy
 https://abc.embedmax.site/syfy/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ParamountNetwork.br" tvg-name="Paramount Network" tvg-logo="" group-title="Canais | Filmes e Séries",Paramount Network
+#EXTINF:-1 tvg-id="Paramount.Network.HD.br" tvg-name="Paramount Network" tvg-logo="" group-title="Canais | Filmes e Séries",Paramount Network
 https://abc.embedmax.site/paramountnetwork/tracks-v1a1/mono.m3u8
 
 
 
 VARIEDADES
 
-#EXTINF:-1 tvg-id="TLC.br" tvg-name="TLC" tvg-logo="https://embedmax.site/imgs-thumbs/assistir%20tlc%20ao%20vivo.webp" group-title="Canais | Variedades",TLC
+#EXTINF:-1 tvg-id="TLC.HD.br" tvg-name="TLC" tvg-logo="https://embedmax.site/imgs-thumbs/assistir%20tlc%20ao%20vivo.webp" group-title="Canais | Variedades",TLC
 https://abc.embedmax.site/tlc/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ComedyCentral.br" tvg-name="Comedy Central" tvg-logo="https://embedmax.site/imgs-thumbs/assistir%20comedy%20central%20ao%20vivo.webp" group-title="Canais | Variedades",Comedy Central
+#EXTINF:-1 tvg-id="Comedy.Central.HD.br" tvg-name="Comedy Central" tvg-logo="https://embedmax.site/imgs-thumbs/assistir%20comedy%20central%20ao%20vivo.webp" group-title="Canais | Variedades",Comedy Central
 https://abc.embedmax.site/comedycentral/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="BIS.br" tvg-name="BIS" tvg-logo="https://embedmax.site/imgs-thumbs/assistir%20bis%20ao%20vivo.webp" group-title="Canais | Variedades",BIS
+#EXTINF:-1 tvg-id="BIS.HD.br" tvg-name="BIS" tvg-logo="https://embedmax.site/imgs-thumbs/assistir%20bis%20ao%20vivo.webp" group-title="Canais | Variedades",BIS
 https://abc.embedmax.site/bis/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="E!.br" tvg-name="E!" tvg-logo="https://embedmax.site/imgs-thumbs/assistir%20e%20entertainment%20ao%20vivo.webp" group-title="Canais | Variedades",E!
+#EXTINF:-1 tvg-id="E!.HD.br" tvg-name="E!" tvg-logo="https://embedmax.site/imgs-thumbs/assistir%20e%20entertainment%20ao%20vivo.webp" group-title="Canais | Variedades",E!
 https://abc.embedmax.site/e/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT" tvg-logo="https://embedmax.site/imgs-thumbs/assistir%20gnt%20ao%20vivo.webp" group-title="Canais | Variedades",GNT
+#EXTINF:-1 tvg-id="GNT.HD.br" tvg-name="GNT" tvg-logo="https://embedmax.site/imgs-thumbs/assistir%20gnt%20ao%20vivo.webp" group-title="Canais | Variedades",GNT
 https://abc.embedmax.site/gnt/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow" tvg-logo="https://embedmax.site/imgs-thumbs/assistir%20multishow%20ao%20vivo.webp" group-title="Canais | Variedades",Multishow
+#EXTINF:-1 tvg-id="Multishow.HD.br" tvg-name="Multishow" tvg-logo="https://embedmax.site/imgs-thumbs/assistir%20multishow%20ao%20vivo.webp" group-title="Canais | Variedades",Multishow
 https://abc.embedmax.site/multishow/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="CanalOFF.br" tvg-name="Canal OFF" tvg-logo="https://embedmax.site/imgs-thumbs/assistir%20canal%20off%20ao%20vivo.webp" group-title="Canais | Variedades",Canal OFF
+#EXTINF:-1 tvg-id="OFF.br" tvg-name="Canal OFF" tvg-logo="https://embedmax.site/imgs-thumbs/assistir%20canal%20off%20ao%20vivo.webp" group-title="Canais | Variedades",Canal OFF
 https://abc.embedmax.site/canaloff/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1" tvg-logo="https://embedmax.site/imgs-thumbs/assistir%20arte%201%20ao%20vivo%20gratis.webp" group-title="Canais | Variedades",Arte 1
+#EXTINF:-1 tvg-id="Arte.1.HD.br" tvg-name="Arte 1" tvg-logo="https://embedmax.site/imgs-thumbs/assistir%20arte%201%20ao%20vivo%20gratis.webp" group-title="Canais | Variedades",Arte 1
 https://abc.embedmax.site/arte1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva" tvg-logo="https://embedmax.site/imgs-thumbs/assistir%20viva%20ao%20vivo.webp" group-title="Canais | Variedades",Viva
+#EXTINF:-1 tvg-id="Viva.HD.br" tvg-name="Viva" tvg-logo="https://embedmax.site/imgs-thumbs/assistir%20viva%20ao%20vivo.webp" group-title="Canais | Variedades",Viva
 https://abc.embedmax.site/viva/tracks-v1a1/mono.m3u8
 
 
