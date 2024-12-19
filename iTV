@@ -36,13 +36,13 @@ DOCUMENTÁRIOS
 
 
 #EXTINF:-1 tvg-id="Nat.Geo.HD.br" tvg-name="NatGeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Canais | Documentários",NatGeo
-https://abc.embedmax.site/nationalgeographic/tracks-v1a1/mono.m3u8
+https://new.m3u8.one/nationalgeographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Animal.Planet.br" tvg-name="Animal Planet" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png" group-title="Canais | Documentários",Animal Planet
-https://abc.embedmax.site/animalplanet/tracks-v1a1/mono.m3u8
+https://new.m3u8.one/animalplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="History.HD.br" tvg-name="History" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png" group-title="Canais | Documentários",History
-https://abc.embedmax.site/history/tracks-v1a1/mono.m3u8
+https://new.m3u8.one/history/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="History.2.br" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Canais | Documentários",History 2
-https://abc.embedmax.site/history2/tracks-v1a1/mono.m3u8
+/history2/tracks-v1a1/mono.m3u8
 
 DISCOVERY CHANNELS
 
