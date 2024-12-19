@@ -42,7 +42,7 @@ https://new.m3u8.one/animalplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="History.HD.br" tvg-name="History" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png" group-title="Canais | Documentários",History
 https://new.m3u8.one/history/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="History.2.br" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Canais | Documentários",History 2
-/history2/tracks-v1a1/mono.m3u8
+https://new.m3u8.one/history2/tracks-v1a1/mono.m3u8
 
 DISCOVERY CHANNELS
 
