@@ -5,7 +5,7 @@ ABERTOS
 
 
 #EXTINF:-1 tvg-id="GLOBO.br" tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Globo.png" group-title="Canais | Abertos",Globo
-https://new.m3u8.one/globorj/tracks-v1a1/mono.m3u8
+http://razyal.tel/486261694/n827A6440r/2376
 #EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="Canais | Abertos",SBT
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 tvg-id="Record.br" tvg-name="RecordTV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Canais | Abertos",RecordTV
