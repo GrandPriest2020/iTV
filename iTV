@@ -4,7 +4,7 @@
 ABERTOS
 
 
-#EXTINF:-1 tvg-id="GLOBO.br" tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Globo.png" group-title="Canais | Abertos",Globo
+#EXTINF:-1 tvg-id="GLOBO.br" tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Canais | Abertos",Globo
 http://razyal.tel/486261694/n827A6440r/2376
 #EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="Canais | Abertos",SBT
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
@@ -31,6 +31,11 @@ https://super-cdn.link/globonews/tracks-v1a1/mono.m3u8
 https://stream1.freetv.fun/cnn-brasil-1.m3u8
 #EXTINF:-1 tvg-id="JPnews.br" tvg-name="JP News" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/jp.webp" group-title="Canais | Notícias",JP News
 https://super-cdn.link/jpnews/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TV.CÃ‚MARA.br" tvg-name="TV Câmara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_C%C3%A2mara_dos_Deputados_do_Brasil.png/640px-Logo_C%C3%A2mara_dos_Deputados_do_Brasil.png" group-title="Canais | Notícias",TV Câmara
+https://super-cdn.link/tvcamara/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TV.SENADO.br" tvg-name="TV Senado" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/1200px-TV_Senado.svg.png" group-title="Canais | Notícias",TV Senado
+https://super-cdn.link/tvsenado/tracks-v1a1/mono.m3u8
 
 DOCUMENTÁRIOS
 
