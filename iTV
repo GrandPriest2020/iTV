@@ -39,7 +39,7 @@ https://super-cdn.link/tvsenado/tracks-v1a1/mono.m3u8
 
 DOCUMENTÁRIOS
 
-https://super-cdn.link/
+
 #EXTINF:-1 tvg-id="Nat.Geo.HD.br" tvg-name="NatGeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Canais | Documentários",NatGeo
 https://super-cdn.link/nationalgeographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Animal.Planet.br" tvg-name="Animal Planet" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png" group-title="Canais | Documentários",Animal Planet
@@ -53,7 +53,7 @@ DISCOVERY CHANNELS
 
 
 #EXTINF:-1 tvg-id="Discovery.HD.br" tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="Canais | Discovery",Discovery Channel
-https://new.m3u8.one/discoverychannel/tracks-v1a1/mono.m3u8
+https://super-cdn.link/discoverychannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.Home.and.Health.HD.br" tvg-name="Discovery Home & Health" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryhh.webp" group-title="Canais | Discovery",Discovery Home & Health
 https://super-cdn.link/discoveryheh/tracks-v1a1/mono.m3u8
