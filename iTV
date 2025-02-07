@@ -11,11 +11,11 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u
 #EXTINF:-1 tvg-id="Record.br" tvg-name="RecordTV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Canais | Abertos",RecordTV
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-0.png" group-title="Canais | Abertos",Band
-https://super-cdn.link/band/tracks-v1a1/mono.m3u8
+http://razyal.tel/486261694/n827A6440r/255465
 #EXTINF:-1 tvg-id="REDETV.HD.br" tvg-name="RedeTV" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="Canais | Abertos",RedeTV
-https://super-cdn.link/redetv/tracks-v1a1/mono.m3u8
+http://razyal.tel/486261694/n827A6440r/80172
 #EXTINF:-1 tvg-id="Cultura.HD.br" tvg-name="TV Cultura" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo.png" group-title="Canais | Abertos",TV Cultura
-https://super-cdn.link/tvcultura/tracks-v1a1/mono.m3u8
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV
 
 
 NOTÍCIAS
