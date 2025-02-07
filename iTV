@@ -80,28 +80,28 @@ ESPORTES
 
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="Sportv" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-4-1.png" group-title="Canais | Esportes",Sportv
-https://stream1.freetv.fun/0207e985f9d4b1b09265e9825eeb3e2a51514b2c66978aa646edef5758890893.ctv
+https://new.m3u8.one/sportv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Sportv.2.br" tvg-name="Sportv2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-4-1.png" group-title="Canais | Esportes",Sportv2
 http://razyal.tel/486261694/n827A6440r/554
 #EXTINF:-1 tvg-id="SporTV2.br" tvg-name="Sportv2 ALT" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-4-1.png" group-title="Canais | Esportes",Sportv2 ALT
 https://abc.embedmax.site/sportv2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SporTV.3.br" tvg-name="Sportv3" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-4-1.png" group-title="Canais | Esportes",Sportv3
 http://razyal.tel/486261694/n827A6440r/559
-#EXTINF:-1 tvg-id="Premiere.HD.br" tvg-name="Premiere Clubes" tvg-logo="" group-title="Canais | Esportes",Premiere Clubes
+#EXTINF:-1 tvg-id="Premiere.CLUBES.HD.br" tvg-name="Premiere Clubes" tvg-logo="" group-title="Canais | Esportes",Premiere Clubes
 http://razyal.tel/486261694/n827A6440r/494
-#EXTINF:-1 tvg-id="Premiere.HD2.br" tvg-name="Premiere2" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere2
+#EXTINF:-1 tvg-id="Premiere.2.br" tvg-name="Premiere2" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere2
 http://razyal.tel/486261694/n827A6440r/499
-#EXTINF:-1 tvg-id="Premiere.HD.3.br" tvg-name="Premiere3" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere3
+#EXTINF:-1 tvg-id="Premiere.3.br" tvg-name="Premiere3" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere3
 http://razyal.tel/486261694/n827A6440r/504
-#EXTINF:-1 tvg-id="Premiere.HD.4.br" tvg-name="Premiere4" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere4
+#EXTINF:-1 tvg-id="Premiere.4.br" tvg-name="Premiere4" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere4
 http://razyal.tel/486261694/n827A6440r/509
-#EXTINF:-1 tvg-id="Premiere.HD.5.br" tvg-name="Premiere5" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere5
-http://razyal.tel/486261694/n827A6440r/514
-#EXTINF:-1 tvg-id="Premiere.HD6.br" tvg-name="Premiere6" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere6
-http://razyal.tel/486261694/n827A6440r/519
-#EXTINF:-1 tvg-id="Premiere.HD7.br" tvg-name="Premiere7" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere7
+#EXTINF:-1 tvg-id="Premiere.5.br" tvg-name="Premiere5" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere5
+https://new.m3u8.one/pre5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Premiere.6.br" tvg-name="Premiere6" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere6
+https://new.m3u8.one/pre6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Premiere.7.br" tvg-name="Premiere7" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere7
 http://razyal.tel/486261694/n827A6440r/524
-#EXTINF:-1 tvg-id="Premiere.HD8.br" tvg-name="Premiere8" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere8
+#EXTINF:-1 tvg-id="Premiere.8.br" tvg-name="Premiere8" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere8
 http://razyal.tel/486261694/n827A6440r/
 
 #EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/espn.webp" group-title="Canais | Esportes",ESPN
