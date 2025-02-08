@@ -53,28 +53,28 @@ DISCOVERY CHANNELS
 
 
 #EXTINF:-1 tvg-id="Discovery.HD.br" tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="Canais | Discovery",Discovery Channel
-http://razyal.tel/486261694/n827A6440r/
+https://super-cdn.link/discoverychannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.Home.and.Health.HD.br" tvg-name="Discovery Home & Health" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryhh.webp" group-title="Canais | Discovery",Discovery Home & Health
-http://razyal.tel/486261694/n827A6440r/
+https://super-cdn.link/discoveryheh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.Science.HD.br" tvg-name="Discovery Science" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryscience.webp" group-title="Canais | Discovery",Discovery Science
-http://razyal.tel/486261694/n827A6440r/
+https://super-cdn.link/discoveryscience/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.Theater.br" tvg-name="Discovery Theater" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoverytheater.webp" group-title="Canais | Discovery",Discovery Theater
-http://razyal.tel/486261694/n827A6440r/
+https://super-cdn.link/discoverytheater/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.World.br" tvg-name="Discovery World" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveyworld.webp" group-title="Canais | Discovery",Discovery World
-http://razyal.tel/486261694/n827A6440r/
+https://super-cdn.link/discoveryworld/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-id="ID.HD.br" tvg-name="Discovery ID" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryid.webp" group-title="Canais | Discovery",Discovery ID
-http://razyal.tel/486261694/n827A6440r/
+https://super-cdn.link/discoveryid/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-id="Discovery.Turbo.HD.br" tvg-name="Discovery Turbo" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryturbo.webp" group-title="Canais | Discovery",Discovery Turbo
-http://razyal.tel/486261694/n827A6440r/
+https://super-cdn.link/discoveryturbo/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-id="Discovery.Kids.HD.br" tvg-name="Discovery Kids" tvg-logo="https://i.imgur.com/6uoNAAj.png" group-title="Canais | Discovery",Discovery KIds
-http://razyal.tel/486261694/n827A6440r/
+https://super-cdn.link/discoverykids/tracks-v1a1/mono.m3u8
  
 ESPORTES
 
@@ -113,9 +113,9 @@ http://razyal.tel/486261694/n827A6440r/220
 #EXTINF:-1 tvg-id="ESPN.4.br" tvg-name="ESPN 4" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/espn.webp" group-title="Canais | Esportes",ESPN 4
 http://razyal.tel/486261694/n827A6440r/225
 #EXTINF:-1 tvg-id="ESPN5.br" tvg-name="ESPN 5" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/espn.webp" group-title="Canais | Esportes",ESPN 5
-http://razyal.tel/486261694/n827A6440r/
+https://super-cdn.link/espn5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ESPN6.br" tvg-name="ESPN 6" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/espn.webp" group-title="Canais | Esportes",ESPN 6
-http://razyal.tel/486261694/n827A6440r/
+https://super-cdn.link/espn6/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Paramount +" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/paramount-300x150-1.webp" group-title="Canais | Esportes", Paramount +
 http://razyal.tel/486261694/n827A6440r/250563
@@ -146,14 +146,14 @@ INFANTIL
 
 #EXTINF:-1 tvg-id="Gloob.HD.br" tvg-name="Gloob" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Infantil",Gloob
 https://super-cdn.link/gloob/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Gloobonho.HD.br" tvg-name="Gloobinho" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Infantil",Gloobinho
+#EXTINF:-1 tvg-id="Gloobinho.HD.br" tvg-name="Gloobinho" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Infantil",Gloobinho
 https://super-cdn.link/gloobinho/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.HD.br" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="Canais | Infantil",Nickelodeon
 https://super-cdn.link/nickelodeon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Nick.Jr..HD.br" tvg-name="Nickjr" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="Canais | Infantil",Nickjr
 https://super-cdn.link/nickjr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Disney.Channel.HD.br" tvg-name="Disney Channel" tvg-logo="https://commons.wikimedia.org/wiki/File:Disney_channel_2020.png" group-title="Canais | Infantil",Disney Channel
+#EXTINF:-1 tvg-id="Disney.HD.br" tvg-name="Disney Channel" tvg-logo="https://commons.wikimedia.org/wiki/File:Disney_channel_2020.png" group-title="Canais | Infantil",Disney Channel
 https://super-cdn.link/disneychannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Cartoon.HD.br" tvg-name="Cartoon Network" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="Canais | Infantil",Cartoon Network
 https://super-cdn.link/cartoonnetwork/tracks-v1a1/mono.m3u8
@@ -163,7 +163,7 @@ FILMES E SÉRIES
 
 #EXTINF:-1 tvg-id="HBO.HD.br" tvg-name="HBO" tvg-logo="https://www.pngall.com/wp-content/uploads/15/HBO-Logo-PNG-Image.png" group-title="Canais | Filmes e Séries",HBO
 https://super-cdn.link/hbo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="HBO.2.HD.br" tvg-name="HBO 2" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hbo2.webp" group-title="Canais | Filmes e Séries",HBO 2
+#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hbo2.webp" group-title="Canais | Filmes e Séries",HBO 2
 https://super-cdn.link/hbo2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HBO.Family.HD.br" tvg-name="HBO Family" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hbo-family.webp" group-title="Canais | Filmes e Séries",HBO Family
 https://super-cdn.link/hbofamily/tracks-v1a1/mono.m3u8
