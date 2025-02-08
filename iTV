@@ -80,7 +80,7 @@ ESPORTES
 
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="Sportv" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-4-1.png" group-title="Canais | Esportes",Sportv
-https://new.m3u8.one/sportv/tracks-v1a1/mono.m3u8
+https://super-cdn.link/sportv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Sportv.2.br" tvg-name="Sportv2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-4-1.png" group-title="Canais | Esportes",Sportv2
 http://razyal.tel/486261694/n827A6440r/554
 #EXTINF:-1 tvg-id="SporTV2.br" tvg-name="Sportv2 ALT" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-4-1.png" group-title="Canais | Esportes",Sportv2 ALT
@@ -90,7 +90,7 @@ http://razyal.tel/486261694/n827A6440r/559
 #EXTINF:-1 tvg-id="Premiere.CLUBES.HD.br" tvg-name="Premiere Clubes" tvg-logo="" group-title="Canais | Esportes",Premiere Clubes
 http://razyal.tel/486261694/n827A6440r/494
 #EXTINF:-1 tvg-id="Premiere.2.br" tvg-name="Premiere2" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere2
-http://razyal.tel/486261694/n827A6440r/499
+http://super-cdn.link/premiere2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Premiere.3.br" tvg-name="Premiere3" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere3
 http://razyal.tel/486261694/n827A6440r/504
 #EXTINF:-1 tvg-id="Premiere.4.br" tvg-name="Premiere4" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere4
