@@ -8,7 +8,7 @@ ABERTOS
 http://razyal.tel/486261694/n827A6440r/2376
 #EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="Canais | Abertos",SBT
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RecordTV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Canais | Abertos",RecordTV
+#EXTINF:-1 tvg-id="RECORD.HD.br" tvg-name="RecordTV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Canais | Abertos",RecordTV
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-0.png" group-title="Canais | Abertos",Band
 http://razyal.tel/486261694/n827A6440r/255465
@@ -32,7 +32,7 @@ https://stream1.freetv.fun/cnn-brasil-1.m3u8
 #EXTINF:-1 tvg-id="JPnews.br" tvg-name="JP News" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/jp.webp" group-title="Canais | Notícias",JP News
 https://super-cdn.link/jpnews/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="TV.CÃ‚MARA.br" tvg-name="TV Câmara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_C%C3%A2mara_dos_Deputados_do_Brasil.png/640px-Logo_C%C3%A2mara_dos_Deputados_do_Brasil.png" group-title="Canais | Notícias",TV Câmara
+#EXTINF:-1 tvg-id="TV.CÃMARA.br" tvg-name="TV Câmara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_C%C3%A2mara_dos_Deputados_do_Brasil.png/640px-Logo_C%C3%A2mara_dos_Deputados_do_Brasil.png" group-title="Canais | Notícias",TV Câmara
 https://super-cdn.link/tvcamara/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TV.SENADO.br" tvg-name="TV Senado" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/1200px-TV_Senado.svg.png" group-title="Canais | Notícias",TV Senado
 https://super-cdn.link/tvsenado/tracks-v1a1/mono.m3u8
@@ -67,7 +67,7 @@ https://super-cdn.link/discoverytheater/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Discovery.World.br" tvg-name="Discovery World" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveyworld.webp" group-title="Canais | Discovery",Discovery World
 https://super-cdn.link/discoveryworld/tracks-v1a1/mono.m3u8
  
-#EXTINF:-1 tvg-id="ID.HD.br" tvg-name="Discovery ID" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryid.webp" group-title="Canais | Discovery",Discovery ID
+#EXTINF:-1 tvg-id="ID.br" tvg-name="Discovery ID" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryid.webp" group-title="Canais | Discovery",Discovery ID
 https://super-cdn.link/discoveryid/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-id="Discovery.Turbo.HD.br" tvg-name="Discovery Turbo" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryturbo.webp" group-title="Canais | Discovery",Discovery Turbo
