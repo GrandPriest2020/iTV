@@ -29,10 +29,10 @@ https://super-cdn.link/bandnews/tracks-v1a1/mono.m3u8
 https://super-cdn.link/globonews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CNN.Brasil.HD.br" tvg-name="CNN Brasil" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png" group-title="Canais | Notícias",CNN Brasil
 https://stream1.freetv.fun/cnn-brasil-1.m3u8
-#EXTINF:-1 tvg-id="JPnews.br" tvg-name="JP News" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/jp.webp" group-title="Canais | Notícias",JP News
+#EXTINF:-1 tvg-id="Jovem.Pan.News.br" tvg-name="JP News" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/jp.webp" group-title="Canais | Notícias",JP News
 https://super-cdn.link/jpnews/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="TV.CÃMARA.br" tvg-name="TV Câmara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_C%C3%A2mara_dos_Deputados_do_Brasil.png/640px-Logo_C%C3%A2mara_dos_Deputados_do_Brasil.png" group-title="Canais | Notícias",TV Câmara
+#EXTINF:-1 tvg-id="TV.CÂMARA.br" tvg-name="TV Câmara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_C%C3%A2mara_dos_Deputados_do_Brasil.png/640px-Logo_C%C3%A2mara_dos_Deputados_do_Brasil.png" group-title="Canais | Notícias",TV Câmara
 https://super-cdn.link/tvcamara/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TV.SENADO.br" tvg-name="TV Senado" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/1200px-TV_Senado.svg.png" group-title="Canais | Notícias",TV Senado
 https://super-cdn.link/tvsenado/tracks-v1a1/mono.m3u8
@@ -136,7 +136,7 @@ http://razyal.tel/486261694/n827A6440r/
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/bandsports.webp" group-title="Canais | Esportes", Band Sports
 http://razyal.tel/486261694/n827A6440r/
 
-#EXTINF:-1 tvg-id="Combate.HD.br" tvg-name="Combate" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/combate-1.webp" group-title="Canais | Esportes", Combate
+#EXTINF:-1 tvg-id="Combate..br" tvg-name="Combate" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/combate-1.webp" group-title="Canais | Esportes", Combate
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/123
 #EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/09/ufcflightpass.webp" group-title="Canais | Esportes", UFC Fight Pass
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1121
