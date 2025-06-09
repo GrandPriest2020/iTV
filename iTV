@@ -12,15 +12,15 @@ https://live-01.edge-fonte-the-pi.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6
 #EXTINF:-1 tvg-id="GLOBO.br" tvg-name="Globo 3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Canais | Abertos",Globo3
 https://live-as-02-17.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDItMTcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzQzMDM2MzU1LCJpYXQiOjE3NDI5NDk5NTUsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNmI1MWFlM2UtNDVkMi00OWEwLTg2ZjctMjhkMzEwMGViMjM0IiwicGF0aCI6Ii9udS9mKGk9MikvZ2xvYm8tdGVyL3BsYXlsaXN0Lm0zdTgifQ.HiuELtzK9aYEeZ0J4yoJmfquvQHJNolBsaNqOhNU67gjQvoxTK2HKtfxNazJQucnHnxuDlTSrdpK5lp4VkhaSvA6v_NqxZFi8veL3iSedFGsbA2gqsrGLPwfA7iX83oJPpT97f5Ox0mZ6_e0WwiQUtVPQt9Hrnhv8rVziMbNJNy90CR5zbQl6WRgdatDk9jRUaDcmH9sFnFtV252cXA27DPxDpanHyRfFCAPHlWaUJrvcNfV0-ToGelrRLW51tlAHgpcs40hpL435mkWu1eRx_5cX8qK5gT0DoM48MwoEYx5QerJ2oUHHwukynKjBtWODlni98NrsvSGzSigbP_Zwg/nu/f(i=2)/globo-ter/globo-ter-audio_1=96000-video=3442944.m3u8
 
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="Canais | Abertos",SBT
+#EXTINF:-1 tvg-id="São.Paulo/SP..SBT.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="Canais | Abertos",SBT
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
-#EXTINF:-1 tvg-id="RECORD.HD.br" tvg-name="RecordTV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Canais | Abertos",RecordTV
+#EXTINF:-1 tvg-id="São.Paulo/SP..Record.HD.br" tvg-name="RecordTV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Canais | Abertos",RecordTV
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-id="Band.br" tvg-name="Band" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-0.png" group-title="Canais | Abertos",Band
+#EXTINF:-1 tvg-id="São.Paulo/SP..Band.br" tvg-name="Band" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-0.png" group-title="Canais | Abertos",Band
 http://razyal.tel/486261694/n827A6440r/255465
-#EXTINF:-1 tvg-id="REDETV.HD.br" tvg-name="RedeTV" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="Canais | Abertos",RedeTV
+#EXTINF:-1 tvg-id="São.Paulo/SP..Rede.TV.HD.br" tvg-name="RedeTV" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="Canais | Abertos",RedeTV
 http://razyal.tel/486261694/n827A6440r/80172
-#EXTINF:-1 tvg-id="Cultura.HD.br" tvg-name="TV Cultura" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo.png" group-title="Canais | Abertos",TV Cultura
+#EXTINF:-1 tvg-id="São.Paulo/SP..Cultura.HD.br" tvg-name="TV Cultura" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo.png" group-title="Canais | Abertos",TV Cultura
 https://lvstr.cfd/tvcultura/tracks-v1a1/mono.m3u8
 
 
@@ -47,19 +47,19 @@ DOCUMENTÁRIOS
 
 #EXTINF:-1 tvg-id="Nat.Geo.HD.br" tvg-name="NatGeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Canais | Documentários",NatGeo
 https://lvstr.cfd/nationalgeographic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Animal.Planet.br" tvg-name="Animal Planet" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png" group-title="Canais | Documentários",Animal Planet
+#EXTINF:-1 tvg-id="São.Paulo/SP..Animal.Planet.br" tvg-name="Animal Planet" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png" group-title="Canais | Documentários",Animal Planet
 http://razyal.tel/486261694/n827A6440r/2602
-#EXTINF:-1 tvg-id="History.HD.br" tvg-name="History" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png" group-title="Canais | Documentários",History
+#EXTINF:-1 tvg-id="São.Paulo/SP..History.Hd.br" tvg-name="History" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png" group-title="Canais | Documentários",History
 https://cdn-3.nxplay.com.br/HISTORY_TK/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="History.2.br" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Canais | Documentários",History 2
+#EXTINF:-1 tvg-id="São.Paulo/SP..History.2.HD.br" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Canais | Documentários",History 2
 https://lvstr.cfd/history2/tracks-v1a1/mono.m3u8
 
 DISCOVERY CHANNELS
 
-#EXTINF:-1 tvg-id="Discovery.HD.br" tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="Canais | Discovery",Discovery Channel
+#EXTINF:-1 tvg-id="São.Paulo/SP..Discovery.Channel.br" tvg-name="Discovery Channel" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="Canais | Discovery",Discovery Channel
 http://razyal.tel/486261694/n827A6440r/2577
 
-#EXTINF:-1 tvg-id="Discovery.Home.and.Health.HD.br" tvg-name="Discovery Home & Health" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryhh.webp" group-title="Canais | Discovery",Discovery Home & Health
+#EXTINF:-1 tvg-id="São.Paulo/SP..Discovery.Home.and.Health.HD.br" tvg-name="Discovery Home & Health" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryhh.webp" group-title="Canais | Discovery",Discovery Home & Health
 http://15.235.50.112:14100/
 
 #EXTINF:-1 tvg-id="Discovery.Science.HD.br" tvg-name="Discovery Science" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryscience.webp" group-title="Canais | Discovery",Discovery Science
@@ -91,23 +91,23 @@ http://razyal.tel/486261694/n827A6440r/554
 https://abc.embedmax.site/sportv2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SporTV.3.br" tvg-name="Sportv3" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-4-1.png" group-title="Canais | Esportes",Sportv3
 http://razyal.tel/486261694/n827A6440r/559
-#EXTINF:-1 tvg-id="Premiere.CLUBES.HD.br" tvg-name="Premiere Clubes" tvg-logo="" group-title="Canais | Esportes",Premiere Clubes
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.Clubes.HD.br" tvg-name="Premiere Clubes" tvg-logo="" group-title="Canais | Esportes",Premiere Clubes
 http://razyal.tel/486261694/n827A6440r/494
-#EXTINF:-1 tvg-id="Premiere.CLUBES.HD.br" tvg-name="Premiere Clubes" tvg-logo="" group-title="Canais | Esportes",Premiere Clubes ALT1
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.Clubes.HD.br" tvg-name="Premiere Clubes" tvg-logo="" group-title="Canais | Esportes",Premiere Clubes ALT1
 http://15.235.50.112:14020/
-#EXTINF:-1 tvg-id="Premiere.2.br" tvg-name="Premiere2" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere2
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.2.br" tvg-name="Premiere2" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere2
 https://lvstr.cfd/premiere2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Premiere.3.br" tvg-name="Premiere3" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere3
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.3.br" tvg-name="Premiere3" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere3
 http://razyal.tel/486261694/n827A6440r/504
-#EXTINF:-1 tvg-id="Premiere.4.br" tvg-name="Premiere4" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere4
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.4.br" tvg-name="Premiere4" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere4
 http://razyal.tel/486261694/n827A6440r/509
-#EXTINF:-1 tvg-id="Premiere.5.br" tvg-name="Premiere5" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere5
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.5.br" tvg-name="Premiere5" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere5
 https://new.m3u8.one/pre5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Premiere.6.br" tvg-name="Premiere6" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere6
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.6.br" tvg-name="Premiere6" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere6
 https://new.m3u8.one/pre6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Premiere.7.br" tvg-name="Premiere7" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere7
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.7.br" tvg-name="Premiere7" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere7
 http://razyal.tel/486261694/n827A6440r/524
-#EXTINF:-1 tvg-id="Premiere.8.br" tvg-name="Premiere8" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere8
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.8.br" tvg-name="Premiere8" tvg-logo="https://logodownload.org/premiere-fc-logo/premiere-fc-logo-6/" group-title="Canais | Esportes",Premiere8
 http://razyal.tel/486261694/n827A6440r/
 
 #EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/espn.webp" group-title="Canais | Esportes",ESPN
