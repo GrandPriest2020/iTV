@@ -196,6 +196,9 @@ https://lvstr.cfd/hbosignature/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HBO.Xtreme.HD.br" tvg-name="HBO Xtreme" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/hboxtreme.webp" group-title="Canais | Filmes e Séries",HBO Xtreme
 https://lvstr.cfd/hboxtreme/tracks-v1a1/mono.m3u8
 
+
+
+
 #EXTINF:-1 tvg-id="Telecine.Action.HD.br" tvg-name="Telecine Action" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcaction.webp" group-title="Canais | Filmes e Séries",Telecine Action
 https://lvstr.cfd/telecineaction/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-name="Telecine Cult" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tccult.webp" group-title="Canais | Filmes e Séries",Telecine Cult
@@ -208,6 +211,9 @@ https://lvstr.cfd/telecinepipoca/tracks-v1a1/mono.m3u8
 https://lvstr.cfd/telecinepremium/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Telecine.Touch.HD.br" tvg-name="Telecine Touch" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tctouch.webp" group-title="Canais | Filmes e Séries",Telecine Touch
 https://lvstr.cfd/telecinetouch/tracks-v1a1/mono.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="A.and.E.HD.br" tvg-name="A&E" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/ae.webp" group-title="Canais | Filmes e Séries",A&E
 https://lvstr.cfd/aee/tracks-v1a1/mono.m3u8
@@ -234,7 +240,9 @@ https://lvstr.cfd/megapix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Sony.HD.br" tvg-name="Sony Channel" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/sony-300x150-1.webp" group-title="Canais | Filmes e Séries",Sony Channel
 https://lvstr.cfd/sonychannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Space.HD.br" tvg-name="Space" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/space-300x150-1.webp" group-title="Canais | Filmes e Séries",Space
-https://lvstr.cfd/space/tracks-v1a1/mono.m3u8
+https://cloud-usa-user76689866-sv02-stream.s27-usa-cloudfront-net.online/secret_key/d3892f6513813380b9e038501a605dc1.m3u8
+
+
 
 #EXTINF:-1 tvg-id="STAR.Channel.br" tvg-name="Star Channel" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/Star-Channel.webp" group-title="Canais | Filmes e Séries",Star Channel
 https://lvstr.cfd/starchannel/tracks-v1a1/mono.m3u8
