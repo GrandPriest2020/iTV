@@ -4,12 +4,12 @@
 ABERTOS
 
 
-#EXTINF:-1 tvg-id="GLOBO.br" tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Canais | Abertos",Globo
+#EXTINF:-1 tvg-id="São.Paulo/SP..GLOBO.br" tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Canais | Abertos",Globo
 http://razyal.tel/486261694/n827A6440r/2376
 
-#EXTINF:-1 tvg-id="GLOBO.br" tvg-name="Globo ALT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Canais | Abertos",GloboALT
+#EXTINF:-1 tvg-id="São.Paulo/SP..GLOBO.br" tvg-name="Globo ALT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Canais | Abertos",GloboALT
 https://live-01.edge-fonte-the-pi.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1mb250ZS10aGUtcGkudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzQ0OTM4MDAzLCJpYXQiOjE3NDQ4NTE2MDMsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNmI1MWFlM2UtNDVkMi00OWEwLTg2ZjctMjhkMzEwMGViMjM0IiwicGF0aCI6Ii9udS9mKGk9MikvZ2xvYm8tdGVyL3BsYXlsaXN0Lm0zdTgifQ.YAPLW3vJFAdx7rv8vS1hKFp-eD5giDlaN1099c9AjJ7bj2EK8TvoZPHy8g7NHo66QNZKxrpwDqNzcLlGwtJDWJVtE5BELH0UerBjQDP4ZD4a9FkjOZ-7U7zAs4x1VCiDO6-BaoAmKCT5u1CX8Bd_YfULx1KHOPaqY2pGkz5xfS5ScEpeVoVWZ0U9-VxUPgsAEYVuUe2tdKhJy8VNEpBe33G-YTH2tz7uQX275IlWnVECKGAxkkBngDzB8DuYch36arAFO_rTj2zMpBUwCOqXlvw4YoqcSlAUFl4D1ysXPXwPQpz6PdAmn4K9X4NBgsiK_44gv-KcvWjlv-MekCxK1Q/nu/f(i=2)/globo-ter/globo-ter-audio_1=96000-video=3442944.m3u8
-#EXTINF:-1 tvg-id="GLOBO.br" tvg-name="Globo 3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Canais | Abertos",Globo3
+#EXTINF:-1 tvg-id="São.Paulo/SP..GLOBO.br" tvg-name="Globo 3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Canais | Abertos",Globo3
 https://live-as-02-17.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDItMTcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzQzMDM2MzU1LCJpYXQiOjE3NDI5NDk5NTUsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNmI1MWFlM2UtNDVkMi00OWEwLTg2ZjctMjhkMzEwMGViMjM0IiwicGF0aCI6Ii9udS9mKGk9MikvZ2xvYm8tdGVyL3BsYXlsaXN0Lm0zdTgifQ.HiuELtzK9aYEeZ0J4yoJmfquvQHJNolBsaNqOhNU67gjQvoxTK2HKtfxNazJQucnHnxuDlTSrdpK5lp4VkhaSvA6v_NqxZFi8veL3iSedFGsbA2gqsrGLPwfA7iX83oJPpT97f5Ox0mZ6_e0WwiQUtVPQt9Hrnhv8rVziMbNJNy90CR5zbQl6WRgdatDk9jRUaDcmH9sFnFtV252cXA27DPxDpanHyRfFCAPHlWaUJrvcNfV0-ToGelrRLW51tlAHgpcs40hpL435mkWu1eRx_5cX8qK5gT0DoM48MwoEYx5QerJ2oUHHwukynKjBtWODlni98NrsvSGzSigbP_Zwg/nu/f(i=2)/globo-ter/globo-ter-audio_1=96000-video=3442944.m3u8
 
 #EXTINF:-1 tvg-id="São.Paulo/SP..SBT.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="Canais | Abertos",SBT
@@ -83,13 +83,13 @@ http://15.235.50.112:14586/
  
 ESPORTES
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="Sportv" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-4-1.png" group-title="Canais | Esportes",Sportv
+#EXTINF:-1 tvg-id="São.Paulo/SP..Sportv.br" tvg-name="Sportv" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-4-1.png" group-title="Canais | Esportes",Sportv
 http://razyal.tel/486261694/n827A6440r/118881
-#EXTINF:-1 tvg-id="Sportv.2.br" tvg-name="Sportv2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-4-1.png" group-title="Canais | Esportes",Sportv2
+#EXTINF:-1 tvg-id="São.Paulo/SP..Sportv.2.br" tvg-name="Sportv2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-4-1.png" group-title="Canais | Esportes",Sportv2
 http://razyal.tel/486261694/n827A6440r/554
-#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="Sportv2 ALT" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-4-1.png" group-title="Canais | Esportes",Sportv2 ALT
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV2.br" tvg-name="Sportv2 ALT" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-4-1.png" group-title="Canais | Esportes",Sportv2 ALT
 https://abc.embedmax.site/sportv2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SporTV.3.br" tvg-name="Sportv3" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-4-1.png" group-title="Canais | Esportes",Sportv3
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.3..br" tvg-name="Sportv3" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-4-1.png" group-title="Canais | Esportes",Sportv3
 http://razyal.tel/486261694/n827A6440r/559
 #EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.Clubes.HD.br" tvg-name="Premiere Clubes" tvg-logo="" group-title="Canais | Esportes",Premiere Clubes
 http://razyal.tel/486261694/n827A6440r/494
@@ -177,7 +177,9 @@ https://lvstr.cfd/disneychannel/tracks-v1a1/mono.m3u8
 https://lvstr.cfd/cartoonnetwork/tracks-v1a1/mono.m3u8
 
 
-FILMES E SÉRIES
+** FILMES E SÉRIES **
+
+HBOs
 
 #EXTINF:-1 tvg-id="HBO.HD.br" tvg-name="HBO" tvg-logo="https://www.pngall.com/wp-content/uploads/15/HBO-Logo-PNG-Image.png" group-title="Canais | Filmes e Séries",HBO
 http://15.235.50.112:14186/
@@ -197,20 +199,20 @@ https://lvstr.cfd/hbosignature/tracks-v1a1/mono.m3u8
 https://lvstr.cfd/hboxtreme/tracks-v1a1/mono.m3u8
 
 
+TELECINEs
 
-
-#EXTINF:-1 tvg-id="Telecine.Action.HD.br" tvg-name="Telecine Action" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcaction.webp" group-title="Canais | Filmes e Séries",Telecine Action
-https://lvstr.cfd/telecineaction/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-name="Telecine Cult" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tccult.webp" group-title="Canais | Filmes e Séries",Telecine Cult
-https://lvstr.cfd/telecinecult/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Telecine.Fun.HD.br" tvg-name="Telecine Fun" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcfun.webp" group-title="Canais | Filmes e Séries",Telecine Fun
-https://lvstr.cfd/telecinefun/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Telecine.Pipoca.HD.br" tvg-name="Telecine Pipoca" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcpipoca.webp" group-title="Canais | Filmes e Séries",Telecine Pipoca
-https://lvstr.cfd/telecinepipoca/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Telecine.HD.br" tvg-name="Telecine Premium" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcpremium.webp" group-title="Canais | Filmes e Séries",Telecine Premium
-https://lvstr.cfd/telecinepremium/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Telecine.Touch.HD.br" tvg-name="Telecine Touch" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tctouch.webp" group-title="Canais | Filmes e Séries",Telecine Touch
-https://lvstr.cfd/telecinetouch/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Action.HD.br" tvg-name="Telecine Action" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcaction.webp" group-title="Canais | Filmes e Séries",Telecine Action
+https://watchbrasil.akamaized.net/dash/channels/telecineaction/index.mpd?hdnts=exp=1758265204~hmac=e34878f45ebcc0d4ae108f07329ee13ccebe93b054f63d22cfbe742962e68f20
+#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Cult.HD.br" tvg-name="Telecine Cult" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tccult.webp" group-title="Canais | Filmes e Séries",Telecine Cult
+https://watchbrasil.akamaized.net/dash/channels/telecinecult/index.mpd?hdnts=exp=1758265204~hmac=3f89f85f266d21ebdba332f9f4a1aef1ff9d4cb62bddb593a11dc621ac2dc28c
+#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Fun.HD.br" tvg-name="Telecine Fun" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcfun.webp" group-title="Canais | Filmes e Séries",Telecine Fun
+https://watchbrasil.akamaized.net/dash/channels/telecinefun/index.mpd?hdnts=exp=1758265204~hmac=7311c1a7b9c980321f4afb3a8ea0804e60a14969a40959ded4a0b19ae766d9ee
+#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Pipoca.HD.br" tvg-name="Telecine Pipoca" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcpipoca.webp" group-title="Canais | Filmes e Séries",Telecine Pipoca
+https://watchbrasil.akamaized.net/dash/channels/telecinepipoca/index.mpd?hdnts=exp=1758265204~hmac=1fd73c49349f51764fd11a50a320d85b33ae306df575cf1cf67012e0fc98a7cc
+#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.HD.br" tvg-name="Telecine Premium" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tcpremium.webp" group-title="Canais | Filmes e Séries",Telecine Premium
+https://watchbrasil.akamaized.net/dash/channels/telecinepremium/index.mpd?hdnts=exp=1758265204~hmac=e6754870b9504f2a84a96030d1d2fb269e7f0ca6254422a1495a329c8f7025d4
+#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Touch.HD.br" tvg-name="Telecine Touch" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/08/tctouch.webp" group-title="Canais | Filmes e Séries",Telecine Touch
+https://watchbrasil.akamaized.net/dash/channels/telecinetouch/index.mpd?hdnts=exp=1758265204~hmac=391e522528bb7ff07980e3c43a1ec6b214af3cb3c56fe6cdf79a91652d2d8b9f
 
 
 
