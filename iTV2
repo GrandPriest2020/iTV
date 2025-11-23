@@ -54,10 +54,10 @@ https://embedcanaistv.site/history2/tracks-v1a1/mono.m3u8
 DISCOVERY
 
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="Canais | Discovery",Discovery
-https://embedcanaistv.site/discoverychannel/tracks-v1a1/mono.m3u8
+http://saga10.pro:80/345715/562156/1262967
 
 #EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home & Health" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryhh.webp" group-title="Canais | Discovery",Discovery Home & Health
-https://embedcanaistv.site/discoveryhh/tracks-v1a1/mono.m3u8
+http://saga10.pro:80/345715/562156/1262970
 
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/discoveryscience.webp" group-title="Canais | Discovery",Discovery Science
 https://embedcanaistv.site/discoveryscience/tracks-v1a1/mono.m3u8
